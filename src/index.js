@@ -1,13 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import './index.scss';
+import EldenRingApp from './App';
 import reportWebVitals from './reportWebVitals';
+import { colorsVar } from './app/services/styles/variables';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+const body = document.getElementById('body');
+
+body.style.backgroundColor = colorsVar.backgroundColor;
+body.style.color = colorsVar.color;
+
 root.render(
   <React.StrictMode>
-    <App />
+    <EldenRingApp />
   </React.StrictMode>
 );
 

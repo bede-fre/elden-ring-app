@@ -1,0 +1,3683 @@
+{
+    "incantations":[
+        {
+            "bonus":"Dragon Cult",
+            "count":1,
+            "id":"17f696c7ce7l0hynrwmh6d0r0rwk2",
+            "name":"Ancient Dragons' Lightning Strike",
+            "image":"/images/incantations/17f696c7ce7l0hynrwmh6d0r0rwk2.png",
+            "description":"A secret incantation of the capital's ancient dragon cult.",
+            "type":"Incantations",
+            "cost":27,
+            "slots":1,
+            "effects":"Summons red lightning that spreads from impact",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":26},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Erdtree",
+            "count":2,
+            "id":"17f695ad891l0hynrxcposdnx7gy9h",
+            "name":"Aspects Of The Crucible: Horns",
+            "image":"/images/incantations/17f695ad891l0hynrxcposdnx7gy9h.png",
+            "description":"One of the ancient Erdtree incantations.",
+            "type":"Incantations",
+            "cost":30,
+            "slots":1,
+            "effects":"creates shoulder horn to gore foes from a low stance.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":27},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Communion",
+            "count":3,
+            "id":"17f690dc5ael0hynrxf3lq1w3xcjpr",
+            "name":"Agheel's Flame",
+            "image":"/images/incantations/17f690dc5ael0hynrxf3lq1w3xcjpr.png",
+            "description":"Superior incantation of Dragon Communion. Channels the power of the flying dragon Agheel.",
+            "type":"Incantations",
+            "cost":36,
+            "slots":1,
+            "effects":"Spews flame breath of Agheel from above",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":23},{"name":"Arcane","amount":15}]
+        }, {
+            "bonus":"Erdtree",
+            "count":4,
+            "id":"17f693bd4f8l0hynrzaixs0xzre1q",
+            "name":"Aspects Of The Crucible: Tail",
+            "image":"/images/incantations/17f693bd4f8l0hynrzaixs0xzre1q.png",
+            "description":"One of the ancient Erdtree incantations.",
+            "type":"Incantations",
+            "cost":32,
+            "slots":1,
+            "effects":"Creates supple tail to sweep area before caster",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":27},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Erdtree",
+            "count":5,
+            "id":"17f698483c9l0hyns2v5nt60a29sd",
+            "name":"Barrier Of Gold",
+            "image":"/images/incantations/17f698483c9l0hyns2v5nt60a29sd.png",
+            "description":"One of the incantations of Erdtree Worship. ",
+            "type":"Incantations",
+            "cost":30,
+            "slots":1,
+            "effects":"Greatly increases magic damage negation for self & allies",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":24},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Cult",
+            "count":6,
+            "id":"17f6911d8c2l0hyns4qd7p9pfucu26",
+            "name":"Ancient Dragons' Lightning Spear",
+            "image":"/images/incantations/17f6911d8c2l0hyns4qd7p9pfucu26.png",
+            "description":"A secret incantation of the capital's ancient dragon cult.",
+            "type":"Incantations",
+            "cost":32,
+            "slots":1,
+            "effects":"Stabs with red lightning spear from above",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":0},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Bestial",
+            "count":7,
+            "id":"17f690418f4l0hyns68vsg9zhbc6w",
+            "name":"Beast Claw",
+            "image":"/images/incantations/17f690418f4l0hyns68vsg9zhbc6w.png",
+            "description":"Incantation taught by Gurranq, the Beast Clergyman.",
+            "type":"Incantation",
+            "cost":10,
+            "slots":1,
+            "effects":"Creates claws that tear through the land.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":8},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Erdtree",
+            "count":8,
+            "id":"17f693c22edl0hynsdj8fz0ddz4vni",
+            "name":"Aspect Of The Crucible: Breath",
+            "image":"/images/incantations/17f693c22edl0hynsdj8fz0ddz4vni.png",
+            "description":"One of the ancient Erdtree incantations.",
+            "type":"Incantations"
+            ,"cost":28,
+            "slots":1,
+            "effects":"Creates throat pouch to spew fire while walking",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":27},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Bestial",
+            "count":9,
+            "id":"17f69691e79l0hyntbidbq75lrrjb7",
+            "name":"Bestial Constitution",
+            "image":"/images/incantations/17f69691e79l0hyntbidbq75lrrjb7.png",
+            "description":"Incantation taught by Gurranq, the Beast Clergyman.",
+            "type":"Incantations",
+            "cost":10,
+            "slots":1,
+            "effects":"Alleviates blood loss and frost buildup",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":9},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Bestial",
+            "count":10,
+            "id":"17f68f98778l0hynteevtb4hr6x90d",
+            "name":"Bestial Sling",
+            "image":"/images/incantations/17f68f98778l0hynteevtb4hr6x90d.png",
+            "description":"Incantation taught by Gurranq, the Beast Clergyman. Swiftly flings a number of sharp rock shards. This incantation can be cast without delay after performing another action. It is said that in the time before the Erdtree, stones were the first weapons of the beasts who had gained intelligence.",
+            "type":"Incantations",
+            "cost":7,
+            "slots":1,
+            "effects":"Swiftly flings numerous sharp rock shards",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":10},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Erdtree",
+            "count":11,
+            "id":"17f69160ac9l0hynthagycs7dr7gq7",
+            "name":"Black Blade",
+            "image":"/images/incantations/17f69160ac9l0hynthagycs7dr7gq7.png",
+            "description":"Power gleaned from the remembrance of Maliketh.",
+            "type":"Incantations",
+            "cost":26,
+            "slots":2,
+            "effects":"Black blade spinning slash that emits wave of light.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":46},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Godskin Apostle",
+            "count":12,
+            "id":"17f69860befl0hyntmsoo0kq76fsvd",
+            "name":"Black Flame Ritual",
+            "image":"/images/incantations/17f69860befl0hyntmsoo0kq76fsvd.png",
+            "description":"Superior black flame incantation of the Godskin Apostles. ",
+            "type":"Incantations",
+            "cost":24,
+            "slots":1,
+            "effects":"Summons circle of black flame pillars around caster.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":42},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Godskin Apostle",
+            "count":13,
+            "id":"17f6982c810l0hyntn0pvua05sv3w",
+            "name":"Black Flame",
+            "image":"/images/incantations/17f6982c810l0hyntn0pvua05sv3w.png",
+            "description":"A black flame incantation of the Godskin Apostles.",
+            "type":"Incantations",
+            "cost":15,
+            "slots":1,
+            "effects":"Throws a ball of raging black fire",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":20},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Godskin Apostle",
+            "count":14,
+            "id":"17f692ee649l0hyntu1vu7cu8wxah",
+            "name":"Black Flame Blade",
+            "image":"/images/incantations/17f692ee649l0hyntu1vu7cu8wxah.png",
+            "description":"A black flame incantation of the Godskin Apostles. ",
+            "type":"Incantations",
+            "cost":15,
+            "slots":1,
+            "effects":"Enchants right-hand armament with black flame",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":17},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Bestial",
+            "count":15,
+            "id":"17f6955e547l0hyntv29oe95w4kpxj",
+            "name":"Bestial Vitality",
+            "image":"/images/incantations/17f6955e547l0hyntv29oe95w4kpxj.png",
+            "description":"Incantation taught by Gurranq, the Beast Clergyman.",
+            "type":"Incantations",
+            "cost":18,
+            "slots":1,
+            "effects":"Heals HP over a period of time",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":12},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Godskin Apostle",
+            "count":16,
+            "id":"17f694f1c32l0hynu33qh2e3un2g1",
+            "name":"Black Flame's Protection",
+            "image":"/images/incantations/17f694f1c32l0hynu33qh2e3un2g1.png",
+            "description":"A black flame incantation of the Godskin Apostles.",
+            "type":"Incantations",
+            "cost":30,
+            "slots":1,
+            "effects":"Increases phyiscal damage negation",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":30},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Erdtree",
+            "count":17,
+            "id":"17f69801f77l0hynudtg36sba9k5lr",
+            "name":"Blessing's Boon",
+            "image":"/images/incantations/17f69801f77l0hynudtg36sba9k5lr.png",
+            "description":"One of the ancient Erdtree incantations.",
+            "type":"Incantations",
+            "cost":23,
+            "slots":1,
+            "effects":"Grants blessing to self and nearby allies",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":24},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Erdtree",
+            "count":18,
+            "id":"17f690ba6e1l0hynuyuvb7sle1w35",
+            "name":"Blessing Of The Erdtree",
+            "image":"/images/incantations/17f690ba6e1l0hynuyuvb7sle1w35.png",
+            "description":"One of the ancient Erdtree",
+            "type":"Incantations",
+            "cost":60,
+            "slots":2,
+            "effects":"Grants greater blessing to self and nearby allies",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":38},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Blood",
+            "count":19,
+            "id":"17f697aaf25l0hynv3bmpsnp4lpnd",
+            "name":"Bloodflame Blade",
+            "image":"/images/incantations/17f697aaf25l0hynv3bmpsnp4lpnd.png",
+            "description":"A Blood Oath incantation, granted by the Lord of Blood. Engulfs armament held in the right hand with bloodflame. This incantation can be cast while in motion. After dealing damage, bloodflame continues to build up onset of blood loss for a very short time.",
+            "type":"Incantations",
+            "cost":20,
+            "slots":1,
+            "effects":"Enchants right-hand armament with bloodflame",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":12},{"name":"Arcane","amount":10}]
+        }, {
+            "bonus":"Blood",
+            "count":20,
+            "id":"17f6973c98fl0hynv5gnjf09yvy8y",
+            "name":"Bloodflame Talons",
+            "image":"/images/incantations/17f6973c98fl0hynv5gnjf09yvy8y.png",
+            "description":"A Blood Oath incantation, granted by the Lord of Blood.",
+            "type":"Incantations",
+            "cost":18,
+            "slots":1,
+            "effects":"Creates bloodflame lacerations that then explode",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":13},{"name":"Arcane","amount":15}]
+        }, {
+            "bonus":"Blood",
+            "count":21,
+            "id":"17f68fd9537l0hynv7q0d210i53bym9",
+            "name":"Bloodboon",
+            "image":"/images/incantations/17f68fd9537l0hynv7q0d210i53bym9.png",
+            "description":"Sacred incantation of Mohg, Lord of Blood.",
+            "type":"Incantations",
+            "cost":15,
+            "slots":1,
+            "effects":"Scatters bloodflame before caster to set area aflame.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":14},{"name":"Arcane","amount":17}]
+        }, {
+            "bonus":"Dragon Communion",
+            "count":22,
+            "id":"17f695324del0hynv9a91iu7h3knff",
+            "name":"Borealis's Mist",
+            "image":"/images/incantations/17f695324del0hynv9a91iu7h3knff.png",
+            "description":"Superior incantation of Dragon Communion.",
+            "type":"Incantations",
+            "cost":48,
+            "slots":1,
+            "effects":"Spews icy breath of Borealis from above",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":23},{"name":"Arcane","amount":15}]
+        }, {
+            "bonus":"Two Fingers",
+            "count":23,
+            "id":"17f694bc935l0hynvcwx4oahz00k48",
+            "name":"Cure Poison",
+            "image":"/images/incantations/17f694bc935l0hynvcwx4oahz00k48.png",
+            "description":"Incantation of the Two Fingers' faithful.",
+            "type":"Incantation",
+            "cost":7,
+            "slots":1,
+            "effects":"Cures Poison ailment and reduces poison build-up.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":10},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Fire Giant",
+            "count":24,
+            "id":"17f696d3fddl0hynve32uy42tb6pip",
+            "name":"Burn O Flame!",
+            "image":"/images/incantations/17f696d3fddl0hynve32uy42tb6pip.png",
+            "description":"One of the incantations that draws directly from the power of the",
+            "type":"Incantations",
+            "cost":30,
+            "slots":1,
+            "effects":"Raises a series of flame pillars around caster",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":27},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Two Fingers",
+            "count":25,
+            "id":"17f690b63a9l0hynvpzqrouoa3uwo",
+            "name":"Darkness",
+            "image":"/images/incantations/17f690b63a9l0hynvpzqrouoa3uwo.png",
+            "description":"Incantation of the Two Fingers' servants, who once served as the ",
+            "type":"Incantations",
+            "cost":26,
+            "slots":1,
+            "effects":"Creates area of darkness that conceals caster",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":18},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Cult",
+            "count":26,
+            "id":"17f6907b527l0hynw9qj9bgu0iu0x",
+            "name":"Death Lightning",
+            "image":"/images/incantations/17f6907b527l0hynw9qj9bgu0iu0x.png",
+            "description":"Incantation that channels the power of the ancient dragon",
+            "type":"Incantation",
+            "cost":46,
+            "slots":2,
+            "effects":"Strikes surroundings with storm of death lightning",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":47},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Golden Order",
+            "count":27,
+            "id":"17f69836ab4l0hynwcix7z37ngspv",
+            "name":"Discus Of Light",
+            "image":"/images/incantations/17f69836ab4l0hynwcix7z37ngspv.png",
+            "description":"One of the incantations of the Golden Order fundamentalists. ",
+            "type":"Incantations",
+            "cost":11,
+            "slots":1,
+            "effects":"Fires ring of light before the caster",
+            "requires":[{"name":"Intelligence","amount":13},{"name":"Faith","amount":13},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Two Fingers",
+            "count":28,
+            "id":"17f695c512fl0hynwmn3k7xy8866e",
+            "name":"Divine Fortification",
+            "image":"/images/incantations/17f695c512fl0hynwmn3k7xy8866e.png",
+            "description":"Incantation of the Two Fingers' faithful.",
+            "type":"Incantations",
+            "cost":20,
+            "slots":1,
+            "effects":"Increases holy damage negation.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":10},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Cult",
+            "count":29,
+            "id":"17f69850e86l0hynws5vlzzny9q7y",
+            "name":"Dragonbolt Blessing",
+            "image":"/images/incantations/17f69850e86l0hynws5vlzzny9q7y.png",
+            "description":"Superior incantation of the capital's ancient dragon cult. Summons lightning to bolster the caster's body. Attacks become easier to deflect and resistance to all ailments is increased. However, lightning damage negation will be reduced. Only those loved by dragons can survive the ordeal of cladding their bodies in lightning.",
+            "type":"Incantations",
+            "cost":20,
+            "slots":1,
+            "effects":"Bolsters caster's body with lightning",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":21},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Communion",
+            "count":30,
+            "id":"17f695ddd2cl0hynwt4kcvu1t0jpbh",
+            "name":"Dragonice",
+            "image":"/images/incantations/17f695ddd2cl0hynwt4kcvu1t0jpbh.png",
+            "description":"One of the incantations of Dragon Communion.",
+            "type":"Incantations",
+            "cost":36,
+            "slots":1,
+            "effects":"Channels dragon to spew icy breath",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":15},{"name":"Arcane","amount":12}]
+        }, {
+            "bonus":"Dragon Communion",
+            "count":31,
+            "id":"17f695ee05cl0hynwvuh9iqspb3fmk",
+            "name":"Dragonclaw",
+            "image":"/images/incantations/17f695ee05cl0hynwvuh9iqspb3fmk.png",
+            "description":"One of the incantations of Dragon Communion.",
+            "type":"Incantations",
+            "cost":42,
+            "slots":1,
+            "effects":"Channels dragon to rend foes with dragon claws",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":17},{"name":"Arcane","amount":13}]
+        }, {
+            "bonus":"Dragon Communion",
+            "count":32,
+            "id":"17f6919abe5l0hynwx7opzx5u5zvs",
+            "name":"Dragonfire",
+            "image":"/images/incantations/17f6919abe5l0hynwx7opzx5u5zvs.png",
+            "description":"One of the incantations of Dragon Communion.",
+            "type":"Incantation",
+            "cost":28,
+            "slots":1,
+            "effects":"Channels dragon to spew flame breath",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":15},{"name":"Arcane","amount":12}]
+        }, {
+            "bonus":"Dragon Communion",
+            "count":33,
+            "id":"17f68f9d130l0hynx3f1brjxtzdk9j",
+            "name":"Dragonmaw",
+            "image":"/images/incantations/17f68f9d130l0hynx3f1brjxtzdk9j.png",
+            "description":"One of the incantations of Dragon Communion.",
+            "type":"Incantations",
+            "cost":62,
+            "slots":1,
+            "effects":"Channels dragon to bite foes before caster",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":24},{"name":"Arcane","amount":16}]
+        }, {
+            "bonus":"Dragon Communion",
+            "count":34,
+            "id":"17f693fa72dl0hynxecsuhc2twylv",
+            "name":"Ekzykes's Decay",
+            "image":"/images/incantations/17f693fa72dl0hynxecsuhc2twylv.png",
+            "description":"Superior incantation of Dragon Communion. Channels the power of Ekzykes, the Decaying.",
+            "type":"Incantations",
+            "cost":48,
+            "slots":1,
+            "effects":"Spews scarlet rot breath of Ekzykes from above"
+            ,"requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":23},{"name":"Arcane","amount":15}]
+        }, {
+            "bonus":"Fire Monk",
+            "count":35,
+            "id":"17f694fc4c1l0hynyj2kcaruicejdh",
+            "name":"Fire's Deadly Sin",
+            "image":"/images/incantations/17f694fc4c1l0hynyj2kcaruicejdh.png",
+            "description":"Incantation originating from a deeply ominous prophecy.",
+            "type":"Incantations",
+            "cost":26,
+            "slots":1,
+            "effects":"Sets area and self ablaze with raging flames",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":19},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Erdtree",
+            "count":36,
+            "id":"17f698775c6l0hynyj6kv53b13zexj",
+            "name":"Erdtree Heal",
+            "image":"/images/incantations/17f698775c6l0hynyj6kv53b13zexj.png",
+            "description":"One of the ancient Erdtree incantations.",
+            "type":"Incantations",
+            "cost":65,
+            "slots":1,
+            "effects":"Vastly heals HP for self and nearby allies",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":42},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Fire Giant",
+            "count":37,
+            "id":"17f6908edd1l0hynyjh9vrt6fwxg9g",
+            "name":"Flame, Fall Upon Them",
+            "image":"/images/incantations/17f6908edd1l0hynyjh9vrt6fwxg9g.png",
+            "description":"One of the incantations that draws directly from the power of the",
+            "type":"Incantations",
+            "cost":24,
+            "slots":1,
+            "effects":"Hurls several balls of fire at once",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":28},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Cult",
+            "count":38,
+            "id":"17f691a5912l0hynyooe4izs5zxh3t",
+            "name":"Electrify Armament",
+            "image":"/images/incantations/17f691a5912l0hynyooe4izs5zxh3t.png",
+            "description":"One of the incantations of the capital's ancient dragon cult.",
+            "type":"Incantations",
+            "cost":21,
+            "slots":1,
+            "effects":"Enchants right-hand armament with lightning damage",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":15},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Two Fingers",
+            "count":39,
+            "id":"17f6985c468l0hynypycnlfmwjdzds",
+            "name":"Flame Fortification",
+            "image":"/images/incantations/17f6985c468l0hynypycnlfmwjdzds.png",
+            "description":"Incantation of the Two Fingers' faithful. ",
+            "type":"Incantations",
+            "cost":20,
+            "slots":1,
+            "effects":"Increases fire damage negation.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":10},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Fire Giant",
+            "count":40,
+            "id":"17f6964ed65l0hynyrzn67dmtv89e",
+            "name":"Flame Of The Fell God",
+            "image":"/images/incantations/17f6964ed65l0hynyrzn67dmtv89e.png",
+            "description":"This legendary incantation is one of several that draws directly from the power of the Fire Giants. Releases a ball of raging fire said to be inhabited by a fell god. The fireball floats toward enemies and explodes, setting the area ablaze. Arghanthy, the chief guardian of the Flame, had kept this incantation a well-kept secret until it was stolen by Adan. The fell god still lurks within the Fire Giants.",
+            "type":"Incantations",
+            "cost":20,
+            "slots":2,
+            "effects":"Summons raging fireball that explodes and sets the area ablaze",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":41},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Erdtree",
+            "count":41,
+            "id":"17f69225db6l0hynyujjw6qxgtrbk",
+            "name":"Elden Stars",
+            "image":"/images/incantations/17f69225db6l0hynyujjw6qxgtrbk.png",
+            "description":"This legendary incantation is the most ancient of those that derive from the Erdtree.",
+            "type":"Incantations",
+            "cost":47,
+            "slots":2,
+            "effects":"Creates a steam of golden shooting stars that assail the area.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":50},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Fire Monk",
+            "count":42,
+            "id":"17f692f5b38l0hynzsnci8jsfgasx6",
+            "name":"Flame, Protect Me",
+            "image":"/images/incantations/17f692f5b38l0hynzsnci8jsfgasx6.png",
+            "description":"The most ancient of the Fire Monks' incantations.",
+            "type":"Incantations",
+            "cost":30,
+            "slots":1,
+            "effects":"Greatly increases fire damage negation",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":24},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Cult",
+            "count":43,
+            "id":"17f693ad486l0hynztvo8jus81t2uf",
+            "name":"Fortissax's Lightning Spear",
+            "image":"/images/incantations/17f693ad486l0hynztvo8jus81t2uf.png",
+            "description":"Incantation that channels the power of the ancient dragon Fortissax. ",
+            "type":"Incantations",
+            "cost":64,
+            "slots":1,
+            "effects":"Stabs from above with two red lightning spears in tandem",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":46},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Cult",
+            "count":44,
+            "id":"17f6939dc0dl0hyo003ig3i03oy5eh",
+            "name":"Frozen Lightning Spear",
+            "image":"/images/incantations/17f6939dc0dl0hyo003ig3i03oy5eh.png",
+            "description":"Incantation that channels the power of the Dragonkin Soldiers. Creates a spear of ice lightning and stabs it into the ground from above. On impact, the spear will burst into trails of lightning advancing forwards. The Dragonkin were born in the Eternal City, where they knew no true sky, nor true lightning. Instead, ice lightning was their weapon.",
+            "type":"Incantations",
+            "cost":36,
+            "slots":1,
+            "effects":"Stabs with ice lightning spear from above",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":34},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Communion",
+            "count":45,
+            "id":"17f695939cbl0hyo0116aw3hbaoca",
+            "name":"Glintstone Breath",
+            "image":"/images/incantations/17f695939cbl0hyo0116aw3hbaoca.png",
+            "description":"One of the incantations of Dragon Communion.",
+            "type":"Incantations",
+            "cost":36,
+            "slots":1,
+            "effects":"Channels dragon to spew icy breath.",
+            "requires":null
+        }, {
+            "bonus":"Erdtree",
+            "count":46,
+            "id":"17f68ff32f6l0hyo035frl5ld6347k",
+            "name":"Golden Lightning Fortification",
+            "image":"/images/incantations/17f68ff32f6l0hyo035frl5ld6347k.png",
+            "description":"An incantation of Erdtree Worship.",
+            "type":"Incantations",
+            "cost":30,
+            "slots":1,
+            "effects":"Greatly increases lightning resistance for self and allies",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":24},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Frenzied Flame",
+            "count":47,
+            "id":"17f690e9092l0hyo03nyw25bgiu4hs",
+            "name":"Frenzied Burst",
+            "image":"/images/incantations/17f690e9092l0hyo03nyw25bgiu4hs.png",
+            "description":"Incantations originating from the maddening Three Fingers.",
+            "type":"Incantations",
+            "cost":24,
+            "slots":1,
+            "effects":"Emits concentrated blast of yellow flame of frenzy from eyes",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":22},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Fire Giant",
+            "count":48,
+            "id":"17f695e7bcdl0hyo059aa6ajju2es",
+            "name":"Giantsflame Take Thee",
+            "image":"/images/incantations/17f695e7bcdl0hyo059aa6ajju2es.png",
+            "description":"One of the incantations that draws directly from the power of the",
+            "type":"Incantations",
+            "cost":32,
+            "slots":2,
+            "effects":"Hurls massive ball of raging fire",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":30},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Erdtree",
+            "count":49,
+            "id":"17f69510ee3l0hyo0f0mccaj31dwhq",
+            "name":"Golden Vow",
+            "image":"/images/incantations/17f69510ee3l0hyo0f0mccaj31dwhq.png",
+            "description":"An incantation of Erdtree Worship.",
+            "type":"Incantations",
+            "cost":47,
+            "slots":1,
+            "effects":"Increases attack and defense for self and allies",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":25},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Bestial",
+            "count":50,
+            "id":"17f69535c25l0hyo1gmmkqtdazls9",
+            "name":"Gurrang's Beast Claw",
+            "image":"/images/incantations/17f69535c25l0hyo1gmmkqtdazls9.png",
+            "description":"Superior incantation taught by Gurranq, the Beast Clergyman. ",
+            "type":"Incantations",
+            "cost":21,
+            "slots":1,
+            "effects":"Creates beast claws to rend surroundings with shockwaves",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":15},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Golden Order",
+            "count":51,
+            "id":"17f69822dd3l0hyo1hzk48p9uymlan",
+            "name":"Immutable Shield",
+            "image":"/images/incantations/17f69822dd3l0hyo1hzk48p9uymlan.png",
+            "description":"One of the incantations of the Golden Order fundamentalists. ",
+            "type":"Incantations",
+            "cost":15,
+            "slots":1,
+            "effects":"Increases left-hand shield's affinity/ailment resistance",
+            "requires":[{"name":"Intelligence","amount":19},{"name":"Faith","amount":19},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Two Fingers",
+            "count":52,
+            "id":"17f692dbdc9l0hyo1jah0ket283h6d",
+            "name":"Heal",
+            "image":"/images/incantations/17f692dbdc9l0hyo1jah0ket283h6d.png",
+            "description":"Incantation of the Two Fingers' faithful.",
+            "type":"Incantation",
+            "cost":32,
+            "slots":1,
+            "effects":"Heals HP for you and nearby allies.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":12},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Frenzied Flame",
+            "count":53,
+            "id":"17f69430705l0hyo1jpd17zxxmmdyl",
+            "name":"Howl Of Shabriri",
+            "image":"/images/incantations/17f69430705l0hyo1jpd17zxxmmdyl.png",
+            "description":"Incantation originating from the maddening Three Fingers. ",
+            "type":"Incantations",
+            "cost":21,
+            "slots":1,
+            "effects":"Shrieks, building up madness in nearby foes",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":33},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Two Fingers",
+            "count":54,
+            "id":"17f6926bc7dl0hyo1ku9wh0qz4eyh6",
+            "name":"Great Heal",
+            "image":"/images/incantations/17f6926bc7dl0hyo1ku9wh0qz4eyh6.png",
+            "description":"Superior incantation of the Two Fingers' faithful.",
+            "type":"Incantations",
+            "cost":45,
+            "slots":1,
+            "effects":"Greatly Heals HP for self and nearby allies",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":15},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Communion",
+            "count":55,
+            "id":"17f693e76abl0hyo1mzypokk5gvlz",
+            "name":"Greyoll's Roar",
+            "image":"/images/incantations/17f693e76abl0hyo1mzypokk5gvlz.png",
+            "description":"Superior incantation of Dragon Communion. Channels the power of Greyoll, the Elder Dragon. An incantation of legendary status.",
+            "type":"Incantation",
+            "cost":75,
+            "slots":2,
+            "effects":"Emits the roar of Elder Dragon Greyoll.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":28},{"name":"Arcane","amount":17}]
+        }, {
+            "bonus":"Frenzied Flame",
+            "count":56,
+            "id":"17f68fa0c30l0hyo1qasgyir08s9kb",
+            "name":"Inescapable Frenzy",
+            "image":"/images/incantations/17f68fa0c30l0hyo1qasgyir08s9kb.png",
+            "description":"Incantation originating from the maddening Three Fingers. ",
+            "type":"Incantations",
+            "cost":32,
+            "slots":1,
+            "effects":"Latches onto foes to spread madness",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":21},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Cult",
+            "count":57,
+            "id":"17f6904f3b2l0hyo1u5sqdw9zxr0g",
+            "name":"Honed Bolt",
+            "image":"/images/incantations/17f6904f3b2l0hyo1u5sqdw9zxr0g.png",
+            "description":"One of the incantations of the capital's ancient dragon cult.",
+            "type":"Incantations",
+            "cost":12,
+            "slots":1,
+            "effects":"Strikes foe with lightning bolt from above",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":24},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Cult",
+            "count":58,
+            "id":"17f69773db5l0hyo3532itzerrsdj",
+            "name":"Lansseax's Glaive",
+            "image":"/images/incantations/17f69773db5l0hyo3532itzerrsdj.png",
+            "description":"Incantation that channels the powr of the ancient dragon Lansseax.",
+            "type":"Incantations",
+            "cost":35,
+            "slots":1,
+            "effects":"Sweeps from above with red lightning glaive.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":40},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Two Fingers",
+            "count":59,
+            "id":"17f696de88al0hyo39vlr771is6fv",
+            "name":"Lightning Fortification",
+            "image":"/images/incantations/17f696de88al0hyo39vlr771is6fv.png",
+            "description":"Incantation of the Two Fingers' faithful. ",
+            "type":"Incantations",
+            "cost":20,
+            "slots":1,
+            "effects":"Increass lighting damage negation",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":10},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Two Fingers",
+            "count":60,
+            "id":"17f69602ae3l0hyo3a6ruzolnobp3o",
+            "name":"Lord's Aid",
+            "image":"/images/incantations/17f69602ae3l0hyo3a6ruzolnobp3o.png",
+            "description":"Incantation bestowed by the Two Fingers upon the Tarnished",
+            "type":"Incantations",
+            "cost":9,
+            "slots":1,
+            "effects":"Alleviates poison / blood loss / sleep buildup for self / allies",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":12},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Cult",
+            "count":61,
+            "id":"17f6908485dl0hyo3bkdtot70uk3p4",
+            "name":"Lightning Spear",
+            "image":"/images/incantations/17f6908485dl0hyo3bkdtot70uk3p4.png",
+            "description":"One of the incantations of the capital's ancient dragon cult. Summons a lightning spear and hurls it before the caster. Charging causes a lightning bolt to strike the point ofimpact. Long ago, Godwyn the Golden defeated the ancient dragon Fortissax, and befriended his fallen foe — an event that gave rise to the ancient dragon cult in the capital.",
+            "type":"Incantations",
+            "cost":14,
+            "slots":1,
+            "effects":"Hurls lightning spear before caster",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":17},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Golden Order",
+            "count":62,
+            "id":"17f6933b1fdl0hyo3bz9d9loqhf9qh",
+            "name":"Law Of Causality",
+            "image":"/images/incantations/17f6933b1fdl0hyo3bz9d9loqhf9qh.png",
+            "description":"One of the incantations of the Golden Order fundamentalists.",
+            "type":"Incantations",
+            "cost":22,
+            "slots":1,
+            "effects":"Retaliates upon receiving a number of blows",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":0},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Golden Order",
+            "count":63,
+            "id":"17f6908f509l0hyo3cd6br7iexs0ys",
+            "name":"Litany Of Proper Death",
+            "image":"/images/incantations/17f6908f509l0hyo3cd6br7iexs0ys.png",
+            "description":"One of the incantations of the Golden Order fundamentalists. ",
+            "type":"Incantation",
+            "cost":17,
+            "slots":1,
+            "effects":"Creates image of Order to deal holy damage",
+            "requires":[{"name":"Intelligence","amount":17},{"name":"Faith","amount":17},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Golden Order",
+            "count":64,
+            "id":"17f693addcel0hyo3dh93zpcxbralt",
+            "name":"Law Of Regression",
+            "image":"/images/incantations/17f693addcel0hyo3dh93zpcxbralt.png",
+            "description":"Incantation of the Golden Order fundamentalists. One of the key fundamentals. Heals all negative statuses, dispels special effects, and reveals mimicry in all its forms. The fundamentalists describe the Golden Order through the powers of regression and causality. Regression is the pull of meaning; that all things yearn eternally to converge.",
+            "type":"Incantations",
+            "cost":55,
+            "slots":1,
+            "effects":"Heals all ailments and dispels all special effects",
+            "requires":[{"name":"Intelligence","amount":37},{"name":"Faith","amount":0},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Cult",
+            "count":65,
+            "id":"17f69522233l0hyo3e7aqun8itt9a",
+            "name":"Lightning Strike",
+            "image":"/images/incantations/17f69522233l0hyo3e7aqun8itt9a.png",
+            "description":"One of the incantations of the capital's ancient dragon cult.",
+            "type":"Incantations",
+            "cost":17,
+            "slots":1,
+            "effects":"Summons lightning bolt that spreads from impact.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":28},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Two Fingers",
+            "count":66,
+            "id":"17f6988869dl0hyo4qsblr2lchs3q7",
+            "name":"Lord's Divine Fortification",
+            "image":"/images/incantations/17f6988869dl0hyo4qsblr2lchs3q7.png",
+            "description":"Incantation taught to Gideon the All-Knowing by the Two",
+            "type":"Incantations",
+            "cost":30,
+            "slots":1,
+            "effects":"Greatly increases holy damage negation incl. allies",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":27},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Two Fingers",
+            "count":67,
+            "id":"17f69634f78l0hyo4s4zggpkf72qsp",
+            "name":"Lord's Heal",
+            "image":"/images/incantations/17f69634f78l0hyo4s4zggpkf72qsp.png",
+            "description":"Incantation bestowed by the Two Fingers upon the Tarnished",
+            "type":"Incantations",
+            "cost":42,
+            "slots":1,
+            "effects":"Massively heals HP for self and nearby allies",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":20},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Golden Order",
+            "count":68,
+            "id":"17f68fdec40l0hyo4sbk8kjcr4p6lp",
+            "name":"Order Healing",
+            "image":"/images/incantations/17f68fdec40l0hyo4sbk8kjcr4p6lp.png",
+            "description":"One of the incantations of the Golden Order fundamentalists.",
+            "type":"Incantations",
+            "cost":15,
+            "slots":1,
+            "effects":"Alleviates death blight buildup",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":0},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Godskin Apostle",
+            "count":69,
+            "id":"17f6962911el0hyo4s02nf0ie24nvc",
+            "name":"Noble Presence",
+            "image":"/images/incantations/17f6962911el0hyo4s02nf0ie24nvc.png",
+            "description":"Ancient power of the Godskin Nobles. ",
+            "type":"Incantations",
+            "cost":20,
+            "slots":1,
+            "effects":"Thrust out belly with gusto to unelash repelling shockwave",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":26},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Golden Order",
+            "count":70,
+            "id":"17f692fa4d2l0hyo4uc4mjru3qoaee",
+            "name":"Order's Blade",
+            "image":"/images/incantations/17f692fa4d2l0hyo4uc4mjru3qoaee.png",
+            "description":"One of the incantations of the Golden Order fundamentalists. Used by hunters of Those Who Live in Death. Enchants armament held in the right hand with holy-affinity attacks. This incantation is especially damaging to Those Who Live in Death. Any felled by this incantation cannot be revived. The role of the hunters is to stamp out defiled reason - all for the perfection of the Golden Order.",
+            "type":"Incantations",
+            "cost":22,
+            "slots":1,
+            "effects":"Enchanted right-hand armament with holy damage",
+            "requires":[{"name":"Intelligence","amount":13},{"name":"Faith","amount":13},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Two Fingers",
+            "count":71,
+            "id":"17f69295d83l0hyo4wyff4k2r6tkno",
+            "name":"Magic Fortification",
+            "image":"/images/incantations/17f69295d83l0hyo4wyff4k2r6tkno.png",
+            "description":"Incantation of the Two Fingers' faithful. Increases magic damage negation. This incantation can be cast while in motion. Follow the path that has been set for you, and you will make enemies of all others: the monks, the sorcerers, the ancient dragon knights, and the scions of gold. Heed me – the Lands Between offers no welcome to the Tarnished.",
+            "type":"Incantations",
+            "cost":20,
+            "slots":1,
+            "effects":"Increases magic damage negation",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":10},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Fire Monk",
+            "count":72,
+            "id":"17f6946750bl0hyo4yckgppsbgjyai",
+            "name":"O, Flame!",
+            "image":"/images/incantations/17f6946750bl0hyo4yckgppsbgjyai.png",
+            "description":"Incantation of the Fire Monks.",
+            "type":"Incantations",
+            "cost":12,
+            "slots":1,
+            "effects":"Momentarily sparks roaring flame from hand",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":16},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Communion",
+            "count":73,
+            "id":"17f6917092dl0hyo511p1ard3b4xwm",
+            "name":"Magma Breath",
+            "image":"/images/incantations/17f6917092dl0hyo511p1ard3b4xwm.png",
+            "description":"One of the incantations of Dragon Communion. ",
+            "type":"Incantations",
+            "cost":30,
+            "slots":1,
+            "effects":"Channels wyrm to spew magma breath",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":14},{"name":"Arcane","amount":10}]
+        }, {
+            "bonus":"Servant Of Rot",
+            "count":74,
+            "id":"17f6971f6b6l0hyo69cly6crooe39",
+            "name":"Pest Threads",
+            "image":"/images/incantations/17f6971f6b6l0hyo69cly6crooe39.png",
+            "description":"Incantation of the servants of rot.",
+            "type":"Incantations",
+            "cost":19,
+            "slots":1,
+            "effects":"Launches countless sticky threads before caster",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":11},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Erdtree",
+            "count":75,
+            "id":"17f697ae98fl0hyo6a7rwr36m0lrsr",
+            "name":"Protection Of The Erdtree",
+            "image":"/images/incantations/17f697ae98fl0hyo6a7rwr36m0lrsr.png",
+            "description":"A superior incantation of Erdtree Worship. Increase damage negation for all affinities except physical, for both the caster and nearby allies. Hold to continue praying and delay activation. In the beginning, everything was in opposition to the Erdtree. But through countless victories in war, it became the embodiment of Order.",
+            "type":"Incantations",
+            "cost":30,
+            "slots":1,
+            "effects":"Increases affinity damage negation for self & allies",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":35},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Servant Of Rot",
+            "count":76,
+            "id":"17f6922607fl0hyo6c1nfqul6hljpg",
+            "name":"Poison Armament",
+            "image":"/images/incantations/17f6922607fl0hyo6c1nfqul6hljpg.png",
+            "description":"Incantation of the servants of rot. Enchants armament held in the right hand with poison. This incantation can be cast while in motion. Those who dwell within poison know rot all too well. The death that begets life, that comes to all equally. That is to say: it is the cycle of rebirth put into practice.",
+            "type":"Incantations",
+            "cost":15,
+            "slots":1,
+            "effects":null,
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":10},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Unique",
+            "count":77,
+            "id":"17f6958b760l0hyo6c41h81a4ao9ihh",
+            "name":"Placidusax's Ruin",
+            "image":"/images/incantations/17f6958b760l0hyo6c41h81a4ao9ihh.png",
+            "description":"Power gleaned form the remembrance of Dragonlord Placidusax. ",
+            "type":"Incantations",
+            "cost":80,
+            "slots":3,
+            "effects":"Spews golden breath of Dragonlord Placidusax",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":36},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Servant Of Rot",
+            "count":78,
+            "id":"17f695abe1dl0hyo6ddrxsg47tz9j9",
+            "name":"Poison Mist",
+            "image":"/images/incantations/17f695abe1dl0hyo6ddrxsg47tz9j9.png",
+            "description":"Incantation of the servants of rot.",
+            "type":"Incantations",
+            "cost":18,
+            "slots":1,
+            "effects":"Releases poison mist before caster.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":12},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Golden Order",
+            "count":79,
+            "id":"17f69215aafl0hyo6fnokhkxl7dq4p",
+            "name":"Radagon's Rings Of Light",
+            "image":"/images/incantations/17f69215aafl0hyo6fnokhkxl7dq4p.png",
+            "description":"One of the incantations of the Golden Order fundamentalists.",
+            "type":"Incantations",
+            "cost":29,
+            "slots":1,
+            "effects":"Creates golden ring of light to attack wide area",
+            "requires":[{"name":"Intelligence","amount":31},{"name":"Faith","amount":31},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Communion",
+            "count":80,
+            "id":"17f6968b28dl0hyo6loaay43jahfcp",
+            "name":"Rotten Breath",
+            "image":"/images/incantations/17f6968b28dl0hyo6loaay43jahfcp.png",
+            "description":"One of the incantations of Dragon Communion.",
+            "type":"Incantations",
+            "cost":36,
+            "slots":1,
+            "effects":"Channels dragon to spew scarlet rot breath",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":15},{"name":"Arcane","amount":12}]
+        }, {
+            "bonus":"Two Fingers",
+            "count":81,
+            "id":"17f695dd7d9l0hyo6nbzipolrbtuxg",
+            "name":"Rejection",
+            "image":"/images/incantations/17f695dd7d9l0hyo6nbzipolrbtuxg.png",
+            "description":"Incantation of the Two Fingers' faithful.",
+            "type":"Incantation",
+            "cost":9,
+            "slots":1,
+            "effects":"Produces a shockwave that pushes away foes.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":12},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Communion",
+            "count":82,
+            "id":"17f694d5050l0hyo7rhkcg4j0qaii",
+            "name":"Smarag's Glintstone Breath",
+            "image":"/images/incantations/17f694d5050l0hyo7rhkcg4j0qaii.png",
+            "description":"Superior incantation of Dragon Communion.",
+            "type":"Incantations",
+            "cost":36,
+            "slots":1,
+            "effects":"Spews magic breath of Glintstone Dragon Smarag from above",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":23},{"name":"Arcane","amount":15}]
+        }, {
+            "bonus":"Bestial",
+            "count":83,
+            "id":"17f69771088l0hyo7tmllgof77289o",
+            "name":"Stone Of Gurranq",
+            "image":"/images/incantations/17f69771088l0hyo7tmllgof77289o.png",
+            "description":"Superior incantation taught by Gurranq, the Beast Clergyman. ",
+            "type":"Incantations",
+            "cost":15,
+            "slots":1,
+            "effects":"Hurls a boulder before the caster",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":13},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Fire Monk",
+            "count":84,
+            "id":"17f692aa326l0hyo81f3t0bbkonkwh",
+            "name":"Surge, O Flame!",
+            "image":"/images/incantations/17f692aa326l0hyo81f3t0bbkonkwh.png",
+            "description":"Superior incantation of the Fire Monks.",
+            "type":"Incantations",
+            "cost":1,
+            "slots":1,
+            "effects":"Incinerates area before caster with stream of fire",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":9},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Two Fingers",
+            "count":85,
+            "id":"17f691c3d89l0hyo81xcmf8pooodpu",
+            "name":"Shadow Bait",
+            "image":"/images/incantations/17f691c3d89l0hyo81xcmf8pooodpu.png",
+            "description":"Incantation of the Two Fingers' sewants, who once served as the",
+            "type":"Incantations",
+            "cost":15,
+            "slots":1,
+            "effects":"Creates shadow that lures the aggression of foes of human build",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":13},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Godskin Apostle",
+            "count":86,
+            "id":"17f692422c4l0hyo84mlas2e4zch5",
+            "name":"Scouring Black Flame",
+            "image":"/images/incantations/17f692422c4l0hyo84mlas2e4zch5.png",
+            "description":"A black flame incantation of the Godskin Apostles. Sweeps a wide area before the caster with black flame. Charging enhances range. The black flame could once slay gods. But when Maliketh sealed Destined Death, the true power of the black flame was lost.",
+            "type":"Incantations",
+            "cost":27,
+            "slots":1,
+            "effects":"Sweeps area before caster with black flame",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":28},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Servant Of Rot",
+            "count":87,
+            "id":"17f6904109al0hyo84mydzpc5usap9",
+            "name":"Scarlet Aeonia",
+            "image":"/images/incantations/17f6904109al0hyo84mydzpc5usap9.png",
+            "description":"Technique of Malenia, the Goddess of Rot. ",
+            "type":"Incantations",
+            "cost":56,
+            "slots":3,
+            "effects":"Creates a giant flower that explodes with scarlet rot.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":35},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Blood",
+            "count":88,
+            "id":"17f6925361el0hyo84va1dajld4erh",
+            "name":"Swarm Of Flies",
+            "image":"/images/incantations/17f6925361el0hyo84va1dajld4erh.png",
+            "description":"A Blood Oath incantation, shared from the Lord of Blood's power. Releases a swarm of bloodflies before the caster to assault foes. The vile swarm deals damage and builds up onset of blood loss. This incantation can be cast while in motion. The new palace of the Lord of Blood lies in a swamp of festering blood, and these flies are said to spawn from excrement in that land. ",
+            "type":"Incantations",
+            "cost":14,
+            "slots":1,
+            "effects":"Releases a swarm of bloodflies before the caster",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":11},{"name":"Arcane","amount":16}]
+        }, {
+            "bonus":"Frenzied Flame",
+            "count":89,
+            "id":"17f69632226l0hyo91iqbjmg4xbw1",
+            "name":"The Flame Of Frenzy",
+            "image":"/images/incantations/17f69632226l0hyo91iqbjmg4xbw1.png",
+            "description":"Incantation originating from the maddening Three Fingers.",
+            "type":"Incantation",
+            "cost":16,
+            "slots":1,
+            "effects":"Emits burst of yellow flame of frenzy from eyes",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":16},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Communion",
+            "count":90,
+            "id":"17f69603e55l0hyo92oip6kr38j99r",
+            "name":"Theodorix's Magma",
+            "image":"/images/incantations/17f69603e55l0hyo92oip6kr38j99r.png",
+            "description":"Superior incantation of Dragon Communion. Channels the power of the great wyrm Theodorix. Transforms caster into a great wyrm to spew a large volume of magma breath. Allows one follow-up attack. The name of the ancient troll warrior Theodorix lives on — as a hero of the War against the Giants.",
+            "type":"Incantations",
+            "cost":45,
+            "slots":1,
+            "effects":"Spews magma breath of Theodorix from above",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":21},{"name":"Arcane","amount":14}]
+        }, {
+            "bonus":"Frenzied Flame",
+            "count":91,
+            "id":"17f692da48al0hyo9dril53k44haam",
+            "name":"Unendurable Frenzy",
+            "image":"/images/incantations/17f692da48al0hyo9dril53k44haam.png",
+            "description":"Incantation originating from the maddening Three Fingers. Causes the yellow flame of frenzy to violently burst forth from the caster's eyes. Hold to continue channeling the flame. This incantation can be used while in motion. It is the maddening pain and unstoppable tears of those afflicted with the flame of frenzy brought into being. ",
+            "type":"Incantations",
+            "cost":42,
+            "slots":1,
+            "effects":"Emits violent burst of yellow flame of frenzy from eyes.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":31},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Golden Order",
+            "count":92,
+            "id":"17f6912a13el0hyo9e5e3yb9u659qs",
+            "name":"Triple Rings Of Light",
+            "image":"/images/incantations/17f6912a13el0hyo9e5e3yb9u659qs.png",
+            "description":"One of the incantations of the Golden Order fundamentalists. Produces three rings of light and fires them forwards. The rings of light return to a position close to the caster before disappearing. This incantation can be cast repeatedly. A gift from the young Ivliquella to his father, Radagon.",
+            "type":"Incantations",
+            "cost":23,
+            "slots":1,
+            "effects":"Fire three rings of light before the caster",
+            "requires":[{"name":"Intelligence","amount":23},{"name":"Faith","amount":23},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Fire Monk",
+            "count":93,
+            "id":"17f690c2762l0hyo9glzbxuxlwc2dh",
+            "name":"Whirl, O Flame!",
+            "image":"/images/incantations/17f690c2762l0hyo9glzbxuxlwc2dh.png",
+            "description":"Superior Incantation of the Fire Monks. ",
+            "type":"Incantations",
+            "cost":21,
+            "slots":1,
+            "effects":"Sweeps area before caster with stream of fire",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":13},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Dragon Cult",
+            "count":94,
+            "id":"17f694ba1f5l0hyo9j21xk3iv8ws5v",
+            "name":"Vyke's Dragonbolt",
+            "image":"/images/incantations/17f694ba1f5l0hyo9j21xk3iv8ws5v.png",
+            "description":"Incantation of Vyke, knight of the Roundtable Hold.",
+            "type":"Incantations",
+            "cost":27,
+            "slots":1,
+            "effects":"Enchants right-hand armament with lightning damage",
+            "requires":null
+        }, {
+            "bonus":"Two Fingers",
+            "count":95,
+            "id":"17f698ccf55l0hyo9juunjo3lodn1n",
+            "name":"Urgent Heal",
+            "image":"/images/incantations/17f698ccf55l0hyo9juunjo3lodn1n.png",
+            "description":"Incantation of the Two Fingers faithful.",
+            "type":"Incantation",
+            "cost":16,
+            "slots":1,
+            "effects":"Heals a small amount of HP.",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":8},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Erdtree",
+            "count":96,
+            "id":"17f693ca95el0hyo9lhohewhkatfd",
+            "name":"Wrath Of Gold",
+            "image":"/images/incantations/17f693ca95el0hyo9lhohewhkatfd.png",
+            "description":"Superior Erdtree Worship incantation. Produces a golden shockwave that knocks back nearby foes. Charging increases the size of the shockwave. This incantation was discovered when the Elden Ring was shattered, and it was feared as a sign of the Erdtree's wrath.",
+            "type":"Incantations",
+            "cost":40,
+            "slots":1,
+            "effects":"Produces golden shockwave that knocks back foes",
+            "requires":[{"name":"Intelligence","amount":0},{"name":"Faith","amount":32},{"name":"Arcane","amount":0}]
+        }, {
+            "bonus":"Fire Monk",
+            "count":97,
+            "id":"17f692df09rl0hyo9pokcengjeudie",
+            "name":"Flame Sling",
+            "image":"/images/incantations/17f692df09rl0hyo9pokcengjeudie.png",
+            "description":"",
+            "type":"Incantations",
+            "cost":null,
+            "slots":null,
+            "effects":"",
+            "requires":null
+        }, {
+            "bonus":"Fire Monk",
+            "count":98,
+            "id":"17f284lp09pl0hyo9mdjvnskrmrif",
+            "name":"Flame, Cleanse Me",
+            "image":"/images/incantations/17f284lp09pl0hyo9mdjvnskrmrif.png",
+            "description":"",
+            "type":"Incantations",
+            "cost":null,
+            "slots":null,
+            "effects":"",
+            "requires":null
+        }, {
+            "bonus":"Fire Monk",
+            "count":99,
+            "id":"17f284bp29ll0hyo9qscftyjmklop",
+            "name":"Flame, Grant Me Strength",
+            "image":"/images/incantations/17f284bp29ll0hyo9qscftyjmklop.png",
+            "description":"",
+            "type":"Incantations",
+            "cost":null,
+            "slots":null,
+            "effects":"",
+            "requires":null
+        }, {
+            "bonus":"Fire Monk",
+            "count":100,
+            "id":"17f284md67sl0hyo9pkngrdxawcvy",
+            "name":"Catch Flame",
+            "image":"/images/incantations/17f284md67sl0hyo9pkngrdxawcvy.png",
+            "description":"",
+            "type":"Incantations",
+            "cost":null,
+            "slots":null,
+            "effects":"",
+            "requires":null
+        }, {
+            "bonus":"Two Fingers",
+            "count":101,
+            "id":"17f284kx02gl0hyo9qpwoeirutycn",
+            "name":"Assassin's Approach",
+            "image":"/images/incantations/17f284kx02gl0hyo9qpwoeirutycn.png",
+            "description":"",
+            "type":"Incantations",
+            "cost":null,
+            "slots":null,
+            "effects":"",
+            "requires":null
+        }
+    ],
+    "sorceries": [
+        {
+            "count":1,
+            "id": "17f69323f35l0hykrc6d1g3vajyc0n",
+            "name": "Briars Of Punishment",
+            "image": "images/sorceries/17f69323f35l0hykrc6d1g3vajyc0n.png",
+            "description": "An aberrant sorcery discovered by exiled criminals. Theirs are the sorceries most reviled by the academy. Wounds the caster with thorns of sin, sending a trail of bloodthorns running over the ground to impale enemies from below. This sorcery can be cast repeatedly. The guilty, their eyes gouged by thorns, lived in eternal darkness. There, they discovered the blood star.",
+            "type": "Sorceries",
+            "cost": 13,
+            "slots": 1,
+            "effects": "Wounds caster to unleash trail of bloodthrorns",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 0
+                },
+                {
+                    "name": "Faith",
+                    "amount": 21
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":2,
+            "id": "17f697cbb96l0hykre66weonnfh81y",
+            "name": "Ancient Death Rancor",
+            "image": "images/sorceries/17f697cbb96l0hykre66weonnfh81y.png",
+            "description": "Sorcery of the servants of Death.",
+            "type": "Sorceries",
+            "cost": 24,
+            "slots": 1,
+            "effects": "Summons horde of vengeful spirits that chase down foes",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 34
+                },
+                {
+                    "name": "Faith",
+                    "amount": 24
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":3,
+            "id": "17f694c4b51l0hykrh5ekspavmcdh",
+            "name": "Briars Of Sin",
+            "image": "images/sorceries/17f694c4b51l0hykrh5ekspavmcdh.png",
+            "description": "An aberrant sorcery, discovered along with red glintstone by those exiled to the north for their crimes. Summons large thorns from a whorl of blood shed by one's own hand in penance for sins. This sorcery can be cast repeatedly. The Academy reviles this sorcery, which draws its power from faith.",
+            "type": "Sorceries",
+            "cost": 9,
+            "slots": 1,
+            "effects": "Summons thorns from a whorl of your own blood.",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 0
+                },
+                {
+                    "name": "Faith",
+                    "amount": 24
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":4,
+            "id": "17f697763ffl0hykrjb9eqis858fj9",
+            "name": "Cannon Of Haima",
+            "image": "images/sorceries/17f697763ffl0hykrjb9eqis858fj9.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Lobs an explosive magic projectile that flies in an arc. Charging enhances potency. Drawn from the conspectus of Haima, the adjudicator of the academy, this sorcery employs might as a means to quell conflict.",
+            "type": "Sorceries",
+            "cost": 45,
+            "slots": 1,
+            "effects": "Lobs an explosive magic projectile in an arc",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 25
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":5,
+            "id": "17f69548207l0hykrjxtjpw45plt0o",
+            "name": "Ambush Shard",
+            "image": "images/sorceries/17f69548207l0hykrjxtjpw45plt0o.png",
+            "description": "One of the night sorceries of Sellia, Town of Sorcery. Launches a projectile from a distance removed from the caster, so as to strike the enemy from behind. This sorcery can be cast repeatedly. The Sellian sorcerers were assassins, and it is said that they often hunted their fellows.",
+            "type": "Sorceries",
+            "cost": 16,
+            "slots": 1,
+            "effects": "Strikes from behind with projectile fired from distance",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 23
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":6,
+            "id": "17f69526092l0hykrkfqubdcrri5ri",
+            "name": "Carian Phalanx",
+            "image": "images/sorceries/17f69526092l0hykrkfqubdcrri5ri.png",
+            "description": "One of the sorceries of the Carian royal family.",
+            "type": "Sorceries",
+            "cost": 26,
+            "slots": 1,
+            "effects": "Forms a defensive arch of numerous magic glintblades",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 34
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":7,
+            "id": "17f69501669l0hykrly1hkzqhsjkgf",
+            "name": "Adula's Moonblade",
+            "image": "images/sorceries/17f69501669l0hykrly1hkzqhsjkgf.png",
+            "description": "Sorcery of Adula, the Glintstone Dragon. Conjures a cold magic greatsword, then delivers a sweeping blow that launches a blade-like projectile of frost. This sorcery can be cast repeatedly. Adula, a devourer of sorcerers, was bested by Ranni and subsequently swore a knightly oath to her Dark Moon.",
+            "type": "Sorceries",
+            "cost": 26,
+            "slots": 1,
+            "effects": "Sweeping slash followed by cold blade projectile",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 32
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":8,
+            "id": "17f698158cbl0hykro1lrfmqwblslj",
+            "name": "Carian Greatsword",
+            "image": "images/sorceries/17f698158cbl0hykro1lrfmqwblslj.png",
+            "description": "One of the sorceries of the Carian royal family. Conjures a magic greatsword and then delivers a sweeping blow. This sorcery can be cast repeatedly. Armed with this spell, sorcerers gain the strength of knights, their loyalty sworn to the moon.",
+            "type": "Sorceries",
+            "cost": 16,
+            "slots": 1,
+            "effects": "Performs sweeping slash using magical greatsword",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 24
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":9,
+            "id": "17f68f67eeal0hyksqja69pmxoh3yh",
+            "name": "Carian Piercer",
+            "image": "images/sorceries/17f68f67eeal0hyksqja69pmxoh3yh.png",
+            "description": "One of the sorceries of the Carian royal family.",
+            "type": "Sorceries",
+            "cost": 23,
+            "slots": 1,
+            "effects": "Impales foes with magical greatsword",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 27
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":10,
+            "id": "17f691dc847l0hyksqn4eqkjcj7jls",
+            "name": "Carian Retaliation",
+            "image": "images/sorceries/17f691dc847l0hyksqn4eqkjcj7jls.png",
+            "description": "One of the sorceries of the Carian royal family.",
+            "type": "Sorceries",
+            "cost": 8,
+            "slots": 1,
+            "effects": "Dispels enemy spells and retaliates with glintblades",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 17
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":11,
+            "id": "17f69526839l0hykt29wlkzjaekmfp",
+            "name": "Carian Slicer",
+            "image": "images/sorceries/17f69526839l0hykt29wlkzjaekmfp.png",
+            "description": "One of the sorceries of the Carian royal family.",
+            "type": "Sorceries",
+            "cost": 4,
+            "slots": 1,
+            "effects": "Performs swift sweeping slash using magical sword",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 14
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":12,
+            "id": "17f697a3cebl0hykt5z1wd5xboo99x",
+            "name": "Crystal Barrage",
+            "image": "images/sorceries/17f697a3cebl0hykt5z1wd5xboo99x.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+            "type": "Sorceries",
+            "cost": 14,
+            "slots": 1,
+            "effects": "Fires a volley of glintstone crystal shards",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 23
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":13,
+            "id": "17f6935c00al0hykt61d5dex7ibki",
+            "name": "Collapsing Stars",
+            "image": "images/sorceries/17f6935c00al0hykt61d5dex7ibki.png",
+            "description": "One of the glintstone sorceries that manipulates gravitational forces.",
+            "type": "Sorceries",
+            "cost": 18,
+            "slots": 1,
+            "effects": "Pulls foes toward caster with gravity projectile volley",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 36
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":14,
+            "id": "17f69383db4l0hykt8reipbquz8e6t",
+            "name": "Comet Azur",
+            "image": "images/sorceries/17f69383db4l0hykt8reipbquz8e6t.png",
+            "description": "Legendary sorcery devised by Azur, primeval sorcerer. Fires a tremendous comet in a torrent akin to the distant starry expanse, the place said to be the origin of glintstone. Hold to continue releasing the sorcery's power. When Azur glimpsed into the primeval current, he saw darkness. He was left both bewitched and fearful of the abyss.",
+            "type": "Sorceries",
+            "cost": 40,
+            "slots": 3,
+            "effects": "Fires a tremendous comet within a starry torrent",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 60
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":15,
+            "id": "17f69246033l0hykt9k2ifr73lab5s",
+            "name": "Crystal Burst",
+            "image": "images/sorceries/17f69246033l0hykt9k2ifr73lab5s.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Fires a burst of glintstone crystal shards. This sorcery can be cast repeatedly and while in motion. Charging increases potency. A sorcery of the Crystal Cadre, a group of sorcerers who pursued the wisdom of stone - the secrets locked in the faint cogitation of the Crystalians.",
+            "type": "Sorceries",
+            "cost": 14,
+            "slots": 1,
+            "effects": "Fires a burst of glintstone crystal shards",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 18
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":16,
+            "id": "17f69173b9bl0hyktcuppfyv71lx3",
+            "name": "Comet",
+            "image": "images/sorceries/17f69173b9bl0hyktcuppfyv71lx3.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Fires a great magical comet. This sorcery can be cast repeatedly and while in motion. Charging enhances potency. The greatest of the Karolos Conspectus's sorceries, that only a very few sorcerers have ever mastered.",
+            "type": "Sorceries",
+            "cost": 38,
+            "slots": 1,
+            "effects": "Fires a great magic comet",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 52
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":17,
+            "id": "17f68f97095l0hykuc91iv4akp5w4i",
+            "name": "Crystal Torrent",
+            "image": "images/sorceries/17f68f97095l0hykuc91iv4akp5w4i.png",
+            "description": "Sorcery of the mysterious Crystalians.",
+            "type": "Sorceries",
+            "cost": 24,
+            "slots": 1,
+            "effects": "Creates crystal mass that fires stream of crystal shards",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 47
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":18,
+            "id": "17f69346f84l0hykudkkqg6v1lwpk",
+            "name": "Crystal Release",
+            "image": "images/sorceries/17f69346f84l0hykudkkqg6v1lwpk.png",
+            "description": "Sorcery of the mysterious Crystalians. Creates a mass of crystal, then shatters it to scour a wide area with a violent rain of crystal shards. This sorcery is used by high-ranking adepts among the Crystalians. Some also call this sorcery \"the Crystal Sun.\"",
+            "type": "Sorceries",
+            "cost": 38,
+            "slots": 1,
+            "effects": "Scours area with violent rain of crystal shards",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 41
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":19,
+            "id": "17f69402fafl0hykuks706v0mkdjbd",
+            "name": "Fia's Mist",
+            "image": "images/sorceries/17f69402fafl0hykuks706v0mkdjbd.png",
+            "description": "Sorcery of Fia, the Deathbed Companion. Creates a deathly mist before the caster, which inflicts Death blight upon those who enter. This sorcery can be cast while in motion. Charging enhances range of the mist. This sorcery was developed to oppose the Roundtable Hold, and is effective only against the Tarnished.",
+            "type": "Sorceries",
+            "cost": 25,
+            "slots": 1,
+            "effects": "Release a mist of death before caster",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 23
+                },
+                {
+                    "name": "Faith",
+                    "amount": 18
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":20,
+            "id": "17f696b6eael0hykuqvnuxlujdx0r9",
+            "name": "Eternal Darkness",
+            "image": "images/sorceries/17f696b6eael0hykuqvnuxlujdx0r9.png",
+            "description": "Forbidden sorcery of Sellia, Town of Sorcery. ",
+            "type": "Sorceries",
+            "cost": 25,
+            "slots": 1,
+            "effects": "Creates a dark space that draws in spells",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 35
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":21,
+            "id": "17f698816aal0hykuwweto12afmr3",
+            "name": "Frozen Armament",
+            "image": "images/sorceries/17f698816aal0hykuwweto12afmr3.png",
+            "description": "Sorcery said to have been used by the old snow witch. Enchants armament held in the right hand with frost. This sorcery can be cast while in motion. The snowy crone taught the young Ranni to fear the dark moon as she imparted her cold sorcery.",
+            "type": "Sorceries",
+            "cost": 20,
+            "slots": 1,
+            "effects": "Enchants right-hand armament with frost",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 15
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":22,
+            "id": "17f69206fd7l0hykuyci822nhe618p",
+            "name": "Founding Rain Of Stars",
+            "image": "images/sorceries/17f69206fd7l0hykuyci822nhe618p.png",
+            "description": "The eldest primeval sorcery, said to have been discovered by an",
+            "type": "Sorceries",
+            "cost": 46,
+            "slots": 2,
+            "effects": "Releases a downpour of star rain for a while",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 52
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":23,
+            "id": "17f6989bf92l0hykv0ugfsrr1nuyy6",
+            "name": "Explosive Ghostflame",
+            "image": "images/sorceries/17f6989bf92l0hykv0ugfsrr1nuyy6.png",
+            "description": "Sorcery of the servants of Death.",
+            "type": "Sorceries",
+            "cost": 36,
+            "slots": 1,
+            "effects": "Causes ghostflame explosion that burns wide area",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 42
+                },
+                {
+                    "name": "Faith",
+                    "amount": 30
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":24,
+            "id": "17f698eaeabl0hykv0y1tsef3d740n",
+            "name": "Freezing Mist",
+            "image": "images/sorceries/17f698eaeabl0hykv0y1tsef3d740n.png",
+            "description": "Sorcery said to have been used by the old snow witch.",
+            "type": "Sorceries",
+            "cost": 20,
+            "slots": 1,
+            "effects": "Releases cold mist before caster",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 21
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":25,
+            "id": "17f6970b6del0hykw6jbvxlnultl",
+            "name": "Gelmir's Fury",
+            "image": "images/sorceries/17f6970b6del0hykw6jbvxlnultl.png",
+            "description": "One of the sorceries developed from the magma of Mt. Gelmir.",
+            "type": "Sorceries",
+            "cost": 27,
+            "slots": 1,
+            "effects": "Covers area with surge of magma from the earth",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 28
+                },
+                {
+                    "name": "Faith",
+                    "amount": 15
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":26,
+            "id": "17f697a11c6l0hykw8gs7a4bj2bzi",
+            "name": "Gavel Of Haima",
+            "image": "images/sorceries/17f697a11c6l0hykw8gs7a4bj2bzi.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Creates a magical greathammer and slams it down. Allows one follow-up attack. Drawn from the scholarly conspectus of Haima, the adjudicator of the academy, this sorcery employs might as a means to quell conflict.",
+            "type": "Sorceries",
+            "cost": 37,
+            "slots": 1,
+            "effects": "Attacks using a magic greathammer",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 25
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":27,
+            "id": "17f6923b831l0hykweqyar0a2aerzn",
+            "name": "Glintstone Arc",
+            "image": "images/sorceries/17f6923b831l0hykweqyar0a2aerzn.png",
+            "description": "Fires a horizontal arc of magic that spreads outward. This sorcery can be cast repeteadly and while in motion.",
+            "type": "Sorceries",
+            "cost": 10,
+            "slots": 1,
+            "effects": "Fires a horizontally-widening magic arc",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 13
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":28,
+            "id": "17f6933356el0hykwkb5c4f5eue05g",
+            "name": "Glintstone Cometshard",
+            "image": "images/sorceries/17f6933356el0hykwkb5c4f5eue05g.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Fires a magical comet with a trailing tail. This sorcery can be cast repeatedly and while in motion. Charging enhances potency. A sorcery of the Karolos Conspectus, the most venerable of the academy.",
+            "type": "Sorceries",
+            "cost": 25,
+            "slots": 1,
+            "effects": "Fires a magic comet with a trailing tail",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 36
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":29,
+            "id": "17f692eb5c4l0hykwkentckpz3y24a",
+            "name": "Glintstone Pebble",
+            "image": "images/sorceries/17f692eb5c4l0hykwkentckpz3y24a.png",
+            "description": "The most basic glintstone sorcery of the Academy of Raya Lucaria.",
+            "type": "Sorceries",
+            "cost": 7,
+            "slots": 1,
+            "effects": "Fires magic projectiles from glintstone",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 10
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":30,
+            "id": "17f6944ddfel0hykwkrvbsv9aa4yv",
+            "name": "Glintstone Stars",
+            "image": "images/sorceries/17f6944ddfel0hykwkrvbsv9aa4yv.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+            "type": "Sorceries",
+            "cost": 14,
+            "slots": 1,
+            "effects": "Fires three shooting stars that pursue foes",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 12
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":31,
+            "id": "17f6964e156l0hykwlsm0jw2254jkf",
+            "name": "Glintstone Icecrag",
+            "image": "images/sorceries/17f6964e156l0hykwlsm0jw2254jkf.png",
+            "description": "Sorcery said to have been used by the old snow witch.",
+            "type": "Sorceries",
+            "cost": 12,
+            "slots": 1,
+            "effects": "Fires mass of cold magic from glintstone",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 15
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":32,
+            "id": "17f694aa956l0hykwnt8t2s7k2ohg8",
+            "name": "Glintblade Phalanx",
+            "image": "images/sorceries/17f694aa956l0hykwnt8t2s7k2ohg8.png",
+            "description": "One of the sorceries of the Carian royal family.",
+            "type": "Sorceries",
+            "cost": 20,
+            "slots": 1,
+            "effects": "Forms a defensive arch of magic glintblades",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 22
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":33,
+            "id": "17f68fa1c72l0hykxlbrlhvbrbbyqn",
+            "name": "Gravity Well",
+            "image": "images/sorceries/17f68fa1c72l0hykxlbrlhvbrbbyqn.png",
+            "description": "One of the glintstone sorceries that manipulates gravitational forces. Fires a projectile of condensed gravitational force. Those struck by it will be pulled toward the caster. Charging enhances potency. A gravitational technique studied by the young Radahn. His master was an Alabaster Lord with skin of stone.",
+            "type": "Sorceries",
+            "cost": 12,
+            "slots": 1,
+            "effects": "Pulls foes toward caster with gravity projectile",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 17
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":34,
+            "id": "17f696ff8b3l0hyky03xbsyxdc6ybe",
+            "name": "Great Glintstone Shard",
+            "image": "images/sorceries/17f696ff8b3l0hyky03xbsyxdc6ybe.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. The glintstone serves as a conduit, launching large magical projectiles at foes. This sorcery can be cast repeatedly and while in motion. Those unworthy of the stone crown typically end their brief journey into sorcery here.",
+            "type": "Sorceries",
+            "cost": 12,
+            "slots": 1,
+            "effects": "Fires larger magic projectiles from glintstone",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 16
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":35,
+            "id": "17f6916d3a1l0hyky82ck5l071k7zt",
+            "name": "Lucidity",
+            "image": "images/sorceries/17f6916d3a1l0hyky82ck5l071k7zt.png",
+            "description": "One of the sorceries of the Carian royal family.",
+            "type": "Sorceries",
+            "cost": 10,
+            "slots": 1,
+            "effects": "Alleviates buildup of sleep and madness",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 17
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":36,
+            "id": "17f69580940l0hyky9z5ebz67i2kvd",
+            "name": "Greatblade Phalanx",
+            "image": "images/sorceries/17f69580940l0hyky9z5ebz67i2kvd.png",
+            "description": "One of the sorceries of the Carian royal family. Creates a defensive arch of larger magic glintblades overhead, which automatically attack nearby foes. Used by the enchanted troll knights. They were the comrades of the young Rennala, bound by oath.",
+            "type": "Sorceries",
+            "cost": 43,
+            "slots": 1,
+            "effects": "Forms a defensive arch of larger magic glintblades",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 29
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":37,
+            "id": "17f695ccb66l0hykyaen5y0w0khkll",
+            "name": "Great Oracular Bubble",
+            "image": "images/sorceries/17f695ccb66l0hykyaen5y0w0khkll.png",
+            "description": "Sorcery of the claymen who served as priests in the ancient",
+            "type": "Sorceries",
+            "cost": 16,
+            "slots": 1,
+            "effects": "Launches a large magic bubble",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 25
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 18
+                }
+            ]
+        },
+        {
+            "count":38,
+            "id": "17f6921c90fl0hykycr9xzxlra3r57",
+            "name": "Loretta's Greatbow",
+            "image": "images/sorceries/17f6921c90fl0hykycr9xzxlra3r57.png",
+            "description": "Sorcery used by Royal Knight Loretta. Creates a magic greatbow and fires a great arrow. Charging enhances potency. Hold to keep the great arrow nocked. It is said that the bow was Loretta's favored weapon.",
+            "type": "Sorceries",
+            "cost": 32,
+            "slots": 1,
+            "effects": "Fires great arrow from a magic greatbow",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 26
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":39,
+            "id": "17f696d8893l0hykyj6qhbawvh09t",
+            "name": "Loretta's Mastery",
+            "image": "images/sorceries/17f696d8893l0hykyj6qhbawvh09t.png",
+            "description": "Sorcery used by Loretta, Knight of the Haligtree. Creates a magic greatbow and fires four great arrows simultaneously. Charging enhances potency. Hold to keep the great arrows nocked. Developed by Loretta after her long, bloody journey to seek out a place where the Albinaurics could live in peace. ",
+            "type": "Sorceries",
+            "cost": 50,
+            "slots": 1,
+            "effects": "Fires four great arrow from a magic greatbow at once",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 46
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":40,
+            "id": "17f69330670l0hykywaqrpmwdbzpyj",
+            "name": "Magic Downpour",
+            "image": "images/sorceries/17f69330670l0hykywaqrpmwdbzpyj.png",
+            "description": "One of the sorceries of the Carian royal family.",
+            "type": "Sorceries",
+            "cost": 25,
+            "slots": 1,
+            "effects": "Summon a magic mass that sprays projectiles over area",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 15
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":41,
+            "id": "17f69818087l0hykz26ox2vtdp84yq",
+            "name": "Magic Glintblade",
+            "image": "images/sorceries/17f69818087l0hykz26ox2vtdp84yq.png",
+            "description": "An old sorcery of the Carian Royal Family.",
+            "type": "Sorceries",
+            "cost": 12,
+            "slots": 1,
+            "effects": "Creates sigil that forms a projectile glintblade after delay",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 14
+                }
+            ]
+        },
+        {
+            "count":42,
+            "id": "17f6985da4cl0hykzwl2ly1lk18kxg",
+            "name": "Magma Shot",
+            "image": "images/sorceries/17f6985da4cl0hykzwl2ly1lk18kxg.png",
+            "description": "One of the sorceries developed from the magma of Mt. Gelmir.",
+            "type": "Sorceries",
+            "cost": 24,
+            "slots": 1,
+            "effects": "Fire lump of magma that explodes on contact",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 19
+                },
+                {
+                    "name": "Faith",
+                    "amount": 10
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":43,
+            "id": "17f6979d7f4l0hyl01q26suhho4xsd",
+            "name": "Meteorite",
+            "image": "images/sorceries/17f6979d7f4l0hyl01q26suhho4xsd.png",
+            "description": "A glintstone sorcery that draws on gravitational force, used by a great white king with stone skin. Calls small meteorites down from the sky. The meteor shower continues for as long as the sorcery is in effect. It is said that, in the Eternal City, now lost in ruin underground, meteorites held the same import as stars.",
+            "type": "Sorcery",
+            "cost": 30,
+            "slots": 1,
+            "effects": "Calls small meteors down from the sky.",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 30
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":44,
+            "id": "17f69763b5dl0hyl03j39aq843i4li",
+            "name": "Night Comet",
+            "image": "images/sorceries/17f69763b5dl0hyl03j39aq843i4li.png",
+            "description": "One of the night sorceries of Sellia, Town of Sorcery.",
+            "type": "Sorceries",
+            "cost": 32,
+            "slots": 1,
+            "effects": "Fires semi-invisible magic comet",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 38
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":45,
+            "id": "17f68fe64del0hyl068olsfxrrts7",
+            "name": "Meteorite Of Astel",
+            "image": "images/sorceries/17f68fe64del0hyl068olsfxrrts7.png",
+            "description": "One of the glintstone sorceries that manipulates gravitational forces. Summons a void that emits a hail of meteorites. Hold to continue the effect. A manifestation of the power with which Astel leveled the Eternal City.",
+            "type": "Sorceries",
+            "cost": 60,
+            "slots": 2,
+            "effects": "Calls a hail of small meteorites from the void.",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 55
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":46,
+            "id": "17f69717eddl0hyl0exs9l0a0sdw6s",
+            "name": "Night Shard",
+            "image": "images/sorceries/17f69717eddl0hyl0exs9l0a0sdw6s.png",
+            "description": "One of the night sorceries of Sellia, Town of Sorcery. ",
+            "type": "Sorceries",
+            "cost": 7,
+            "slots": 1,
+            "effects": "Swiftly fires a semi-invisible",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 18
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":47,
+            "id": "17f690350b7l0hyl0i9t31pb2ahyzj",
+            "name": "Night Maiden's Mist",
+            "image": "images/sorceries/17f690350b7l0hyl0i9t31pb2ahyzj.png",
+            "description": "One of the night sorceries of Sellia, Town of Sorcery.",
+            "type": "Sorceries",
+            "cost": 20,
+            "slots": 1,
+            "effects": "Releases life-sapping silver mist before caster",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 14
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":48,
+            "id": "17f69062ddbl0hyl0j0sh5cueid15m",
+            "name": "Rancorcall",
+            "image": "images/sorceries/17f69062ddbl0hyl0j0sh5cueid15m.png",
+            "description": "Sorcery of the servants of Death.",
+            "type": "Sorceries",
+            "cost": 14,
+            "slots": 1,
+            "effects": "Summons vengeful spirits that chase down foes",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 16
+                },
+                {
+                    "name": "Faith",
+                    "amount": 14
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":49,
+            "id": "17f698db556l0hyl0jjihm0vl3xdwh",
+            "name": "Oracle Bubbles",
+            "image": "images/sorceries/17f698db556l0hyl0jjihm0vl3xdwh.png",
+            "description": "Sorcery of the claymen who served as priests in the ancient",
+            "type": "Sorceries",
+            "cost": 12,
+            "slots": 1,
+            "effects": "Launches several small magic bubbles.",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 19
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 15
+                }
+            ]
+        },
+        {
+            "count":50,
+            "id": "17f696ded8bl0hyl1chm38nbkimwj9",
+            "name": "Rennala's Full Moon",
+            "image": "images/sorceries/17f696ded8bl0hyl1chm38nbkimwj9.png",
+            "description": "Sorcery associated with the Carian queen. Uses the caster as a vessel to incarnate a full moon, then sends it floating toward foes. The full moon dispels all sorcery that touches it, and temporarily reduces magic damage negation for those it strikes. Queen Rennala encountered this enchanting moon when she was young, and later, it would bewitch the academy.",
+            "type": "Sorceries",
+            "cost": 55,
+            "slots": 2,
+            "effects": "Incarnate a full moon and launch it at foes",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 70
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":51,
+            "id": "17f6933fcffl0hyl1h3yit07w1s9ta",
+            "name": "Ranni's Dark Moon",
+            "image": "images/sorceries/17f6933fcffl0hyl1h3yit07w1s9ta.png",
+            "description": "Legendary sorcery associated with the Carian queen. ",
+            "type": "Sorceries",
+            "cost": 62,
+            "slots": 2,
+            "effects": "Incarnate a cold, dark moon and launch it at foes.",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 68
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":52,
+            "id": "17f6960508el0hyl1nhkrxurxy1oqd",
+            "name": "Rock Blaster",
+            "image": "images/sorceries/17f6960508el0hyl1nhkrxurxy1oqd.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+            "type": "Sorceries",
+            "cost": 30,
+            "slots": 1,
+            "effects": "Thurst staff into ground to emit a massive shockwave",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 21
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":53,
+            "id": "17f695b8eb1l0hyl1wwn8bq4hod2yh",
+            "name": "Roiling Magma",
+            "image": "images/sorceries/17f695b8eb1l0hyl1wwn8bq4hod2yh.png",
+            "description": "One of the sorceries developed from the magma of Mt. Gelmir. Fires a lump of condensed magma that explodes a short delay after hitting the target. Charging enhances potency and further delays the explosion. After discovering the ancient hexes of Gelmir, Rykard, son of Queen Rennala, brought them back into practical use as new forms of sorcery.",
+            "type": "Sorceries",
+            "cost": 32,
+            "slots": 1,
+            "effects": "Fires lump of magma that explodes after delay",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 21
+                },
+                {
+                    "name": "Faith",
+                    "amount": 12
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":54,
+            "id": "17f6956b602l0hyl1xzxdrjbidynzq",
+            "name": "Rykard's Rancor",
+            "image": "images/sorceries/17f6956b602l0hyl1xzxdrjbidynzq.png",
+            "description": "The terrible power of Rykard, Lord of Blasphemy. ",
+            "type": "Sorceries",
+            "cost": 35,
+            "slots": 2,
+            "effects": "Releases searing spirits that repeatedly explode after delay",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 40
+                },
+                {
+                    "name": "Faith",
+                    "amount": 18
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":55,
+            "id": "17f697513fdl0hyl1yp7y0bcj3si6i",
+            "name": "Rock Sling",
+            "image": "images/sorceries/17f697513fdl0hyl1yp7y0bcj3si6i.png",
+            "description": "One of the glintstone sorceries that manipulates gravitational forces. ",
+            "type": "Sorceries",
+            "cost": 18,
+            "slots": 1,
+            "effects": "Summons rocks from the earth and sends its flying",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 18
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":56,
+            "id": "17f694eec4fl0hyl27r5xh06ckw1so",
+            "name": "Scholar's Armament",
+            "image": "images/sorceries/17f694eec4fl0hyl27r5xh06ckw1so.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+            "type": "Sorceries",
+            "cost": 25,
+            "slots": 1,
+            "effects": "Enchants right-hand armament with magic damage",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 12
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":57,
+            "id": "17f69379d7el0hyl27xfguetq35bni",
+            "name": "Scholar's Shield",
+            "image": "images/sorceries/17f69379d7el0hyl27xfguetq35bni.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+            "type": "Sorceries",
+            "cost": 30,
+            "slots": 1,
+            "effects": "Enhances left-handed shield damage negation",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 12
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":58,
+            "id": "17f69233f99l0hyl32ixqa8cf501y",
+            "name": "Shard Spiral",
+            "image": "images/sorceries/17f69233f99l0hyl32ixqa8cf501y.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+            "type": "Sorceries",
+            "cost": 16,
+            "slots": 1,
+            "effects": "Fire twin spiraling projectiles",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 27
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":59,
+            "id": "17f69240fcdl0hyl38ber0x0u7bv3d",
+            "name": "Shatter Earth",
+            "image": "images/sorceries/17f69240fcdl0hyl38ber0x0u7bv3d.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Imbues the ferrule of the caster's staff with magic, then thrusts it into the ground to create a magical shockwave. Allows one follow-up attack. A Stonedigger sorcery used by the glintstone miners of the crystal tunnel. At the academy, use of this sorcery was a stigma that marked out failed scholars.",
+            "type": "Sorceries",
+            "cost": 12,
+            "slots": 1,
+            "effects": "Thrust staff into ground to emit a shockwave",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 15
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":60,
+            "id": "17f6902b989l0hyl3f6iorcnaeypi",
+            "name": "Starlight",
+            "image": "images/sorceries/17f6902b989l0hyl3f6iorcnaeypi.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria.",
+            "type": "Sorceries",
+            "cost": 12,
+            "slots": 1,
+            "effects": "Creates star light to illuminate surroundings",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 15
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":61,
+            "id": "17f693402e5l0hyl3gzhtqb01yjf3k",
+            "name": "Star Shower",
+            "image": "images/sorceries/17f693402e5l0hyl3gzhtqb01yjf3k.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Fires six magic shooting stars that pursue the target. This sorcery can be cast while in motion. Charging enhances potency. The most difficult to master of the Olivinus Conspectus sorceries.",
+            "type": "Sorceries",
+            "cost": 36,
+            "slots": 1,
+            "effects": "Fires six shooting stars that pursue foes",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 24
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":62,
+            "id": "17f6974051al0hyl3kcvhpy2j6smf",
+            "name": "Stars Of Ruin",
+            "image": "images/sorceries/17f6974051al0hyl3kcvhpy2j6smf.png",
+            "description": "Legendary sorcery devised by Lusat, primeval sorcerers. ",
+            "type": "Sorceries",
+            "cost": 50,
+            "slots": 1,
+            "effects": "Fire twelve dark shooting stars that pursue foes",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 43
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":63,
+            "id": "17f696ec037l0hyl3ngvf00twpbcg",
+            "name": "Shattering Crystal",
+            "image": "images/sorceries/17f696ec037l0hyl3ngvf00twpbcg.png",
+            "description": "Sorcery of the mysterious Crystalians. Creates a mass of crystal, then shatters it in a forward burst. Charging enhances potency. The Crystalians are inorganic beings, yet they live. They cleave close to the ideals of the primeval current, and as such, they are revered guests of the sorcerers.",
+            "type": "Sorceries",
+            "cost": 32,
+            "slots": 1,
+            "effects": "Creates crystal mass that shatters in forward burst",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 38
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":64,
+            "id": "17f69183747l0hyl3o1tnkgev3q3qs",
+            "name": "Swift Glintstone Shard",
+            "image": "images/sorceries/17f69183747l0hyl3o1tnkgev3q3qs.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. The glintstone serves as a conduit, launching swift magical projectiles at foes. This sorcery can be used without delay after performing another action. Those unworthy of the stone crown typically end their brief journey into sorcery here.",
+            "type": "Sorceries",
+            "cost": 5,
+            "slots": 1,
+            "effects": "Swiftly fires magic projectiles from glintstone",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 12
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":65,
+            "id": "17f694f65f4l0hyl3qlnj0oepap3pg",
+            "name": "Terra Magicus",
+            "image": "images/sorceries/17f694f65f4l0hyl3qlnj0oepap3pg.png",
+            "description": "One of the glintstone sorceries of the Academy of Raya Lucaria. Draws an academy sigil upon the ground, raising the magic strength of those within. Once, the sigil would be cast from the highest belfry of the academy, covering the entire institution's grounds. This spell allows such vivid experience of spell—casting success, it turns many a fledgling into a true sorcerer in a flash of newfound understanding.",
+            "type": "Sorceries",
+            "cost": 20,
+            "slots": 1,
+            "effects": "Raises the magic strength of those within the sigil",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 20
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":66,
+            "id": "17f69321284l0hyl4lnndsfcv2un9k",
+            "name": "Unseen Blade",
+            "image": "images/sorceries/17f69321284l0hyl4lnndsfcv2un9k.png",
+            "description": "One of the night sorceries of Sellia, Town of Sorcery. Enchants armament held in right hand, making it completely invisible. This sorcery can be cast while in motion. Used by Sellian assassins to present themselves as unarmed sorcerers.",
+            "type": "Sorceries",
+            "cost": 18,
+            "slots": 1,
+            "effects": "Makes right-hand armament completely invisible",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 12
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":67,
+            "id": "17f698ec32bl0hyl4ouriysbeaoqvp",
+            "name": "Unseen Form",
+            "image": "images/sorceries/17f698ec32bl0hyl4ouriysbeaoqvp.png",
+            "description": "One of the night sorceries of Sellia, Town of Sorcery. Makes the caster semi-invisible. While on horseback, effect extends to cover the mount. This sorcery can be cast while in motion. The Sellian assassins considered every option that aided their dirty work.",
+            "type": "Sorceries",
+            "cost": 20,
+            "slots": 1,
+            "effects": "Makes the caster semi-invisible",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 16
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":68,
+            "id": "17f69332a7cl0hyl4q0ahq1rhl510s",
+            "name": "Thops's Barrier",
+            "image": "images/sorceries/17f69332a7cl0hyl4q0ahq1rhl510s.png",
+            "description": "The lifelong pursuit of Thops the Bluntstone.",
+            "type": "Sorceries",
+            "cost": 7,
+            "slots": 1,
+            "effects": "Erect a magic forcefield to deflect spells",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 18
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":69,
+            "id": "17f693b4e3cl0hyl4rjaph3b2vbtk5",
+            "name": "Zamor Ice Storm",
+            "image": "images/sorceries/17f693b4e3cl0hyl4rjaph3b2vbtk5.png",
+            "description": "Ice sorcery of the Town of Zamor.",
+            "type": "Sorceries",
+            "cost": 22,
+            "slots": 1,
+            "effects": "Thrust staff into ground to create freezing tornado.",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 36
+                },
+                {
+                    "name": "Faith",
+                    "amount": 0
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "count":70,
+            "id": "17f692e03b8l0hyl4rlgts2b9n06wj",
+            "name": "Tibia's Summons",
+            "image": "images/sorceries/17f692e03b8l0hyl4rlgts2b9n06wj.png",
+            "description": "Sorcery of the servants of Death. Summons a group of Those Lost in Death. Three skeletons will appear some distance from the caster and attack foes before disappearing. The dead have long been left to wander; what they need is leadership.",
+            "type": "Sorceries",
+            "cost": 20,
+            "slots": 1,
+            "effects": "Summons Those Who Live in Death",
+            "requires": [
+                {
+                    "name": "Intelligence",
+                    "amount": 28
+                },
+                {
+                    "name": "Faith",
+                    "amount": 20
+                },
+                {
+                    "name": "Arcane",
+                    "amount": 0
+                }
+            ]
+        }
+    ],
+    "ashes": [
+        {
+            "id": "17f699db6b0l0hzn9xsxxwtgyfky3",
+            "name": "Ash Of War: Prelate's Charge",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f699db6b0l0hzn9xsxxwtgyfky3.png",
+            "description": "This Ash of War grants an armament the Flame affinity and the following skill:\"Prelate's Charge: Slam armament into the ground to create a surge of flames, then charge in. Hold to continue the charge.\"Usable on large and colossal axes and hammers.",
+            "affinity": "Flame",
+            "skill": "Prelate's Charge"
+        },
+        {
+            "id": "17f69632311l0hzna19sl4rzmmvk4",
+            "name": "Ash Of War: Barrage",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69632311l0hzna19sl4rzmmvk4.png",
+            "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:\"Barrage: Archery skill using a bow held horizontally. Ready the bow, then fire off a rapid succession of shots faster than the eye can see.\"Usable on light bows.",
+            "affinity": "Standard",
+            "skill": "Barrage"
+        },
+        {
+            "id": "17f6983255fl0hzna1ak272zmag8w",
+            "name": "Ash Of War: Barbaric Roar",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6983255fl0hzna1ak272zmag8w.png",
+            "description": "This Ash of War grants an armament the Heavy affinity and the following skill:\"Barbaric Roar: Let loose a bestial roar to rally the spirit and increase attack power. While active, strong attacks change to savage combo attacks.\"Usable on melee armaments (daggers, thrusting swords, and whips excepted).",
+            "affinity": "Heavy",
+            "skill": "Barbaric Roar"
+        },
+        {
+            "id": "17f6999bbdcl0hzna471b3xeg6cjip",
+            "name": "Ash Of War: Blood Blade",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6999bbdcl0hzna471b3xeg6cjip.png",
+            "description": "This Ash of War grants an armament the Blood affinity and the following skill:\"Blood Blade: Wound self to coat the armament with blood, then unleash an airborne blood blade that causes hemorrhaging. Can be fired in rapid succession.\"Usable on small and medium swords.",
+            "affinity": "Blood",
+            "skill": "Blood Blade"
+        },
+        {
+            "id": "17f6959211al0hzna508db0yt3kk1k",
+            "name": "Ash Of War: Assassin's Gambit",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6959211al0hzna508db0yt3kk1k.png",
+            "description": "This Ash of War grants an armament the Occult affinity and the following skill:\"Assassin's Gambit: Skill that masks the user's presence at the cost of a self-inflicted wound. Grants near-invisibility and silences footsteps.\"Usable on small and medium straight swords and thrusting swords.",
+            "affinity": "Occult",
+            "skill": "Assassin's Gambit"
+        },
+        {
+            "id": "17f693ca8bfl0hzna7sr5dyvlqs7s",
+            "name": "Ash Of War: Black Flame Tornado",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f693ca8bfl0hzna7sr5dyvlqs7s.png",
+            "description": "This Ash of War grants an armament the Flame affinity and the following skill:\"Black Flame Tornado: Spin armament overhead and then punge it into the ground to summon a raging vortex of black flames. Hold to create an initial flame tornado while spinning the armament.\"Usable on polearms and twinblades.",
+            "affinity": "Flame Art",
+            "skill": "Black Flame Tornado"
+        },
+        {
+            "id": "17f6930b2bbl0hznaexvxdlscgaiq",
+            "name": "Ash Of War: Barricade Shield",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6930b2bbl0hznaexvxdlscgaiq.png",
+            "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:\"Barricade Shield: Skill made famous by Sir Neidhardt. Focus your energy into the shield, temporarily hardening it to deflect greater blows.\"Usable on all shields.",
+            "affinity": "Standard",
+            "skill": "Barricade Shield"
+        },
+        {
+            "id": "17f694892c5l0hznah6w4ltudpzuj",
+            "name": "Ash Of War: Beast's Roar",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f694892c5l0hznah6w4ltudpzuj.png",
+            "description": "This Ash of War grants an armament the Keen affinity and the following skill:\"Beast's Roar: Unleash a beastly roar, rending the air as a forward-travelling projectile.\"Usable on all melee armaments.",
+            "affinity": "Keen",
+            "skill": "Beast's Roar"
+        },
+        {
+            "id": "17f69558c5el0hznater26nv2f3sgh",
+            "name": "Ash Of War: Bloodhound's Step",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69558c5el0hznater26nv2f3sgh.png",
+            "description": "This Ash of War grants an armament the Keen affinity and the following skill:\"Bloodhound's Step: Skill that allows the user to become temporarily invisible while dodging at high speed. Moves faster and travels farther than a regular quickstep. This skill can be used to circle around lock-on targets.\"Usable on all melee armaments.",
+            "affinity": "Keen",
+            "skill": "Bloodhound's Step"
+        },
+        {
+            "id": "17f6957156al0hznayepq0xs5o00l",
+            "name": "Ash Of War: Braggart's Roar",
+            "image": null,
+            "description": "This Ash of War grants an armament the Heavy affinity and the following skill:\"Braggart's Roar: Declare your presence with a boastful roar. Raises attack power, defense, and stamina recovery speed.\"Usable on melee armaments (daggers, thrusting swords, and whips excepted ).",
+            "affinity": "Heavy",
+            "skill": "Braggart's Roar"
+        },
+        {
+            "id": "17f69748b38l0hznb7t11snt2v6e5to",
+            "name": "Ash Of War: Bloody Slash",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69748b38l0hznb7t11snt2v6e5to.png",
+            "description": "This Ash of War grants an armament the Blood affinity and the following skill:\"Bloody Slash: Bloody Oath skill granted by the Lord of Blood. From a low stance, coat the blade in your own blood to unleash a rending blood slash in a wide arc.\"Usable on swords (colossal weapons excepted)",
+            "affinity": "Blood",
+            "skill": "Bloody Slash"
+        },
+        {
+            "id": "17f69972a78l0hznb8uihn419g6mja",
+            "name": "Ash Of War: Carian Greatsword",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69972a78l0hznb8uihn419g6mja.png",
+            "description": "This Ash of War grants an armament the Magic affinity and the following skill:\"Carian Greatsword: Carian royal prestige embodied in a skill. Transform blade into a magical greatsword and swing it down. Can be charged to increase its power.\"Usable on swords (colossal weapons excepted).",
+            "affinity": "Magic",
+            "skill": "Carian Greatsword"
+        },
+        {
+            "id": "17f6920fe70l0hznbb7s5p9luh70kn",
+            "name": "Ash Of War: Carian Grandeur",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6920fe70l0hznbb7s5p9luh70kn.png",
+            "description": "This Ash of War grants an armament the Magic affinity and the following skill:\"Carian Grandeur: Carian royal prestige embodied in a skill. Transform blade into a magical greatsword and swing it down. Can be charged to increase its power by up to two levels.\"Usable on swords (colossal weapons excepted).",
+            "affinity": "Magic",
+            "skill": "Carian Grandeur"
+        },
+        {
+            "id": "17f691ce52el0hznbb8jlg0tc6t0dm",
+            "name": "Ash Of War: Carian Retaliation",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f691ce52el0hznbb8jlg0tc6t0dm.png",
+            "description": "This Ash of War grants an armament the Magic affinity and the following skill:\"Carian Retaliation: Swing the shield to dispel incoming sorceries and incantations, transforming the magic into retaliatory glintblades. Can also be used in the same way as a regular parry.\"Usable on small and medium shields.",
+            "affinity": "Magic",
+            "skill": "Carian Retaliation"
+        },
+        {
+            "id": "17f69877351l0hznbcbt6uafsjw6at",
+            "name": "Ash Of War: Blood Tax",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69877351l0hznbcbt6uafsjw6at.png",
+            "description": "This Ash of War grants an armament the Blood affinity and the following skill:\"Blood Tax: Blood Oath skill granted by the Lord of Blood. Twist to build power, then unleash a flurry of thrusts that rob the target of both their blood and their HP.\"Usable on armaments capable of thrusting(colossal weapons excepted).",
+            "affinity": "Blood",
+            "skill": "Blood Tax"
+        },
+        {
+            "id": "17f6997d2f3l0hznbknjad2nj3vw6",
+            "name": "Ash Of War: Charge Forth",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6997d2f3l0hznbknjad2nj3vw6.png",
+            "description": "This Ash of War grants an armament the Quality affinity and the following skill:\"Charge Forth: Quickly charge forward with the armament at the hip, carrying the momentum into a thrust. Hold to cover a greater distance.\"Usable on polearms capable of thrusting, heavy thrusting swords, and twinblades.",
+            "affinity": "Quality",
+            "skill": "Charge Forth"
+        },
+        {
+            "id": "17f69632b47l0hznbo20nfz1jomqp0m",
+            "name": "Ash Of War: Chilling Mist",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69632b47l0hznbo20nfz1jomqp0m.png",
+            "description": "This Ash of War grants an armament the Cold affinity and the following skill:\"Chilling Mist: Coat armament in frost, and then slash, spreading frigid mist forwards. The armament retains its frost for a while.\"Usable on melee armaments (whips, fists, and claws excepted).",
+            "affinity": "Cold",
+            "skill": "Chilling Mist"
+        },
+        {
+            "id": "17f699c39abl0hznbvtaua60bridg",
+            "name": "Ash Of War: Cragblade",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f699c39abl0hznbvtaua60bridg.png",
+            "description": "This Ash of War grants an armament the Heavy affinity and the following skill:\"Cragblade: Skill that manipulates gravity. Bury the armament in the ground, pulling rocks from the earth to reinforce it. Increases attack power and makes it easier to break enemy stance.\"Usable on melee armaments (whips excepted).",
+            "affinity": "Heavy",
+            "skill": "Cragblade"
+        },
+        {
+            "id": "17f69718726l0hznc4a52929rfg1aw",
+            "name": "Ash Of War: Double Slash",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69718726l0hznc4a52929rfg1aw.png",
+            "description": "This Ash of War grants an armament the Keen affinity and the following skill:\"Double Slash:Skill of superior swordsmen. Perform a crossing slash attack from a low stance. Repeated inputs allow for up to two follow-up attacks.\"Usable on swords and polearms capable of slashing (colossal weapons excepted).",
+            "affinity": "Keen",
+            "skill": "Double Slash"
+        },
+        {
+            "id": "17f69473c75l0hznc4u7wv3mae45bn",
+            "name": "Ash Of War: Determination",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69473c75l0hznc4u7wv3mae45bn.png",
+            "description": "This Ash of War grants an armament the Quality affinity and the following skill:\"Determination: A knightly skill. Hold the flat of the armament to your face and pledge your resolve, powering up your next attack.\"Usable on all melee armaments.",
+            "affinity": "Quality",
+            "skill": "Determination"
+        },
+        {
+            "id": "17f69a8f14bl0hznc9h9qokr7i72zg",
+            "name": "Ash Of War: Earthshaker",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69a8f14bl0hznc9h9qokr7i72zg.png",
+            "description": "This Ash of War grants an armament the Heavy affinity and the following skill:\"Earthshaker: Thrust armament into the ground, then gather strength to unleash an earth-shaking shockwave. Follow up with a strong attack to swing the armament in a sweeping strike.\"Usable on greataxes, warhammers, and colossal weapons.",
+            "affinity": "Heavy",
+            "skill": "Earthshaker"
+        },
+        {
+            "id": "17f6920c27el0hzncahvte5m3xhhws",
+            "name": "Ash Of War: Enchanted Shot",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6920c27el0hzncahvte5m3xhhws.png",
+            "description": "This ash of war grants no affinity to an armament, but imparts the following skill:\"Enchanted Shot: Archery skill that enlivens the arrow with spiritual essence. The resulting shot will fly faster than regular shots and change its trajectory to follow the target.\"Usable on light bows and longbows.",
+            "affinity": "Standard",
+            "skill": "Enchanted Shot"
+        },
+        {
+            "id": "17f69a074b6l0hzncbpisvienjm7",
+            "name": "Ash Of War: Endure",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69a074b6l0hzncbpisvienjm7.png",
+            "description": "This Ash of War grants an armament the Heavy affinity and the following skill:\"Endure: Assume an anchored stance to brace for incoming attacks, briefly boosting poise. Damage taken while using this skill is reduced.\"Usable on all melee armaments.",
+            "affinity": "Heavy",
+            "skill": "Endure"
+        },
+        {
+            "id": "17f69a3b29al0hzncgekzv3o1qoaml",
+            "name": "Ash Of War: Eruption",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69a3b29al0hzncgekzv3o1qoaml.png",
+            "description": "This Ash of War grants an armament the Fire affinity and the following skill:\"Eruption: Skill of the knights who serve at Volcano Manor. Slam armament into the ground, spawning roiling lava which spouts up upon release.\"Usable on large and colossal swords, axes, and hammers.",
+            "affinity": "Fire",
+            "skill": "Eruption"
+        },
+        {
+            "id": "17f696f88b7l0hzncoms7ors9s5xn8",
+            "name": "Ash Of War: Flame Of The Redmanes",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f696f88b7l0hzncoms7ors9s5xn8.png",
+            "description": "This Ash of War grants an armament the Fire affinity and the following skill:\"Flame of the Redmanes: Skill of the Redmanes, who fought alongside General Radahn. Produce a powerful burst of flames in a wide frontward arc.\"Usable on all melee armaments.",
+            "affinity": "Fire",
+            "skill": "Flame of the Redmanes"
+        },
+        {
+            "id": "17f69717cc3l0hzncvopzfk4mhxexm",
+            "name": "Ash Of War: Flaming Strike",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69717cc3l0hzncvopzfk4mhxexm.png",
+            "description": "This Ash of War grants an armament the Fire affinity and the following skill:\"Flaming Strike: Skill that emits flame in a wide frontward arc. Follow up with a strong attack to perform a lunging, sweeping strike. This will also coat the armament in fire.\"Usable on melee armaments (colossal weapons and whips excepted).",
+            "affinity": "Fire",
+            "skill": "Flaming Strike"
+        },
+        {
+            "id": "17f696839ebl0hznd4efk9q3sfn90t",
+            "name": "Ash Of War: Golden Land",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f696839ebl0hznd4efk9q3sfn90t.png",
+            "description": "Thrust armament into the ground, then gather strength to unleash a blast of sacred energy that coalesces into golden darts. Follow up with a strong attack to swing the armament in a sweeping strike",
+            "affinity": "Sacred",
+            "skill": "Golden Land"
+        },
+        {
+            "id": "17f69124253l0hznd58kalvsnumdfs",
+            "name": "Ash Of War: Glintblade Phalanx",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69124253l0hznd58kalvsnumdfs.png",
+            "description": "This Ash of War grants an armament the Magic affinity and the following skill:\"Glintblade Phalanx: Skill used by the enchanted knights who served the Carian royal family. Form an arch of magic glintblades overhead, which will attack Foes automatically. Follow up with a strong attack to chain this skill into a lunging thrust.\"Usable on swords as well as polearms capable of thrusting (colossal weapons excepted).",
+            "affinity": "Magic",
+            "skill": "Glintblade Phalanx"
+        },
+        {
+            "id": "17f69318912l0hzndcxhadx37qie0d",
+            "name": "Ash Of War: Glintstone Pebble",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69318912l0hzndcxhadx37qie0d.png",
+            "description": "This Ash of War grants an armament the Magic affinity and the following skill:\"Glintstone Pebble: Skill that employs the glintstone sorcery of the same name. Follow up with a strong attack to chain this skill into a lunging thrust, performed while the armament is still imbued with glintstone.\"Usable on swords as well as polearms capable of thrusting (colossal weapons excepted).",
+            "affinity": "Magic",
+            "skill": "Glintstone Pebble Skill"
+        },
+        {
+            "id": "17f69350c54l0hzndgv6rnmsmeuovl",
+            "name": "Ash Of War: Giant Hunt",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69350c54l0hzndgv6rnmsmeuovl.png",
+            "description": "This Ash of War grants an armament the Quality affinity and the following skill:\"Giant Hunt: Skill developed for confronting gigantic foes. Step forward from a low stance, carrying the momentum into a sudden upward thrust.\"Usable on large and colossal weapons capable of thrusting, spears and twinblades.",
+            "affinity": "Quality",
+            "skill": "Giant Hunt"
+        },
+        {
+            "id": "17f698a21ael0hzndhz5rzpbq6s2kr",
+            "name": "Ash Of War: Golden Parry",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f698a21ael0hzndhz5rzpbq6s2kr.png",
+            "description": "This Ash of War grants an armament the Sacred affinity and the following skill:\"Golden Parry: Perform an Erdtree incantation and swing the shield to deflect enemy attacks and break their stance. Effective even at a slight distance.\"Usable on small and medium shields.",
+            "affinity": "Sacred",
+            "skill": "Golden Parry"
+        },
+        {
+            "id": "17f697fa0abl0hzndk8ckmkt1uwa8c",
+            "name": "Ash Of War: Golden Slam",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f697fa0abl0hzndk8ckmkt1uwa8c.png",
+            "description": "This Ash of War grants an armament the Sacred affinity and the following skill:\"Golden Slam: Skill of the avatars who protect Minor Erdtrees. Jump up high into the air and crash down on the ground ahead. The resulting pratfall sends golden shockwaves in all directions.\"Usable on all melee armaments.",
+            "affinity": "Sacred",
+            "skill": "Golden Slam"
+        },
+        {
+            "id": "17f69351ab5l0hzndrisc8jnkt6cio",
+            "name": "Ashes Of War: Golden Vow",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69351ab5l0hzndrisc8jnkt6cio.png",
+            "description": "This Ash of War grants an armament the Sacred affinity and the following skill:\"Golden Vow: Skill passed down from antiquity among the knights of the capital. Raise armament aloft and pledge to honor the Erdtree in battle, granting self and nearby allies increased attack power and defense.\"Usable on all melee armaments.",
+            "affinity": "Sacred",
+            "skill": "Golden Vow"
+        },
+        {
+            "id": "17f691ddaael0hzndtkuqlxj0gi37d",
+            "name": "Ash Of War: Gravitas",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f691ddaael0hzndtkuqlxj0gi37d.png",
+            "description": "This Ash of War grants an armament the Magic affinity and the following Skill:Gravitas A Skill from a great white king with stone skin.Pierce the ground with your armament to damage foes as a surge of gravity draws them in.It can be used on melee armaments that are not small.",
+            "affinity": "Magic",
+            "skill": "Gravitas"
+        },
+        {
+            "id": "17f694e769dl0hzndwlq2qilmdrv3j",
+            "name": "Ash Of War: Ground Slam",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f694e769dl0hzndwlq2qilmdrv3j.png",
+            "description": "This Ash of War grants an armament the Heavy affinity and the following skill:\"Ground Slam: Jump up high into the air and crash down on the ground ahead. The resulting pratfall sends a powerful shockwave in all directions.\"Usable on all melee armaments.",
+            "affinity": "Heavy",
+            "skill": "Ground Slam"
+        },
+        {
+            "id": "17f693bc341l0hzndy1cxubyy4g0bq",
+            "name": "Ash Of War: Hoarah Loux's Earthshaker",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f693bc341l0hzndy1cxubyy4g0bq.png",
+            "description": "This Ash of War grants an armament the Heavy and the following skill:\"Hoarah Loux's Earthshaker: Slam both hands onto the ground to violently shake the earth and unleash a shockwave. Follow up with an additional input to slam the ground again.\"Usable on all melee armaments.",
+            "affinity": "Heavy",
+            "skill": "Hoarah Loux's Earthshaker"
+        },
+        {
+            "id": "17f698e1b7fl0hznea0kg0jfvuo96",
+            "name": "Ash Of War: Holy Ground",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f698e1b7fl0hznea0kg0jfvuo96.png",
+            "description": "This Ash of War grants an armament the Sacred affinity and the following skill:\"Holy Ground: Raise shield to create an Erdtree-consecrated area that continuously restores HP and boosts defense for self and allies inside it.\"Usable on all shields.",
+            "affinity": "Sacred",
+            "skill": "Holy Ground"
+        },
+        {
+            "id": "17f692fc3aal0hzneh25vt285rpane",
+            "name": "Ash Of War: Hoarfrost Stomp",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f692fc3aal0hzneh25vt285rpane.png",
+            "description": "This Ash of War grants an armament the Cold affinity and the following skill:\"Hoarfrost Stomp: Stomp hard to spread a trail of freezing mist on the ground. The mist applies the frost status effect.\"Usable on all melee armaments.",
+            "affinity": "Cold",
+            "skill": "Hoarfrost Stomp"
+        },
+        {
+            "id": "17f69609053l0hzneinqfv4xxlqvhj",
+            "name": "Ash Of War: Ice Spear",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69609053l0hzneinqfv4xxlqvhj.png",
+            "description": "This Ash of War grants an armament the Cold affinity and the following skill:\"Ice Spear: Skill of the warriors who served Lunar Princess Ranni. Spin armament to release cold magic, then channel it into a piercing spear of ice.\"",
+            "affinity": "Cold",
+            "skill": "Ice Spear"
+        },
+        {
+            "id": "17f69a64ff1l0hzneows1ewhajkkgh",
+            "name": "Ash Of War: Impaling Thrust",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69a64ff1l0hzneows1ewhajkkgh.png",
+            "description": "This Ash of War grants an armament the Keen affinity and the following skill:\"Impaling Thrust: Skill that lets piercing armaments overcome enemy shields. Build power, then lunge forward for a strong thrust that pierces an enemy's guard.\"Usable on armaments capable of thrusting (colossal weapons excepted).",
+            "affinity": "Keen",
+            "skill": "Impaling Thrust"
+        },
+        {
+            "id": "17f69700932l0hznetfa5h21htw70m",
+            "name": "Ash Of War: Kick",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69700932l0hznetfa5h21htw70m.png",
+            "description": "This Ash of War grants an armament the Heavy affinity and the following skill:\"Kick: Push an enemy back with a high kick. Effective against enemies who are guarding, and can break a foe's stance. Sometimes a simple tool is the most effective.\"Usable on all melee armaments.",
+            "affinity": "Heavy",
+            "skill": "Kick"
+        },
+        {
+            "id": "17f69a62d88l0hzneyzvq5fyjnottm",
+            "name": "Ash Of War: Lightning Ram",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69a62d88l0hzneyzvq5fyjnottm.png",
+            "description": "This Ash of War grants an armament the Lightning affinity and the following skill:\"Lightning Ram: Skill inspired by tumbling rams. Let out a bleat, then tumble forwards, clad in lightning. Tumbles can be repeated in rapid succession.\"Usable on all melee armaments.",
+            "affinity": "Lightning",
+            "skill": "Lightning Ram"
+        },
+        {
+            "id": "17f692df771l0hznf03p274erwk98h",
+            "name": "Ash Of War: Lightning Slash",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f692df771l0hznf03p274erwk98h.png",
+            "description": "This Ash of War grants an armament the Lightning affinity and the following skill:\"Lightning Slash: Call down a bolt of lightning into armament, then swing it down to create an explosive shock. The armament retains the lightning enchantment for a while.\"Usable on swords, axes, and hammers.",
+            "affinity": "Lightning",
+            "skill": "Lightning Slash"
+        },
+        {
+            "id": "17f696bfa3bl0hznf6k0etmzqb06tl9",
+            "name": "Ash Of War: Lifesteal Fist",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f696bfa3bl0hznf6k0etmzqb06tl9.png",
+            "description": "This Ash of War grants an armament the Occult affinity and the following skill:\"Lifesteal Fist: Skill that demonstrates mastery of the art of controlling vital energies.A slow, controlled punch with an energy-infused fist that renders foes unconscious and steals their HP. Only effective against foes of human build.\"Usable on fists and claws.",
+            "affinity": "Occult",
+            "skill": "Lifesteal Fist"
+        },
+        {
+            "id": "17f69a31a8al0hznf908v1nxqoxy0e",
+            "name": "Ash Of War: Lion's Claw",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69a31a8al0hznf908v1nxqoxy0e.png",
+            "description": "This Ash of War grants an armament the Heavy affinity and the following skill:\"Lion's Claw: Skill of the Redmanes, who fought alongside General Radahn. Somersault forwards, striking foes with armament.\"Usable on swords, axes, and hammers (small armaments and thrusting swords excepted).",
+            "affinity": "Heavy",
+            "skill": "Lion's Claw"
+        },
+        {
+            "id": "17f69a32673l0hznfbappm2n51jcv",
+            "name": "Ash Of War: Loretta's Slash",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69a32673l0hznfbappm2n51jcv.png",
+            "description": "This Ash of War grants an armament the Magic affinity and the following skill:\"Loretta's Slash: Skill of Loretta the Royal Knight. Leap forward, imbuing the blade with glintstone, then descend, accelerating into a sweeping slash.\"Usable on polearms and twinblades.",
+            "affinity": "Magic",
+            "skill": "Loretta's Slash"
+        },
+        {
+            "id": "17f69325755l0hznfv4s2ciqdltjtq",
+            "name": "Ash Of War: Mighty Shot",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69325755l0hznfv4s2ciqdltjtq.png",
+            "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:\"Mighty Shot: Archery skill performed from an oblique stance. Ready the bow, then pull the bowstring to its limit to enhance the power of the shot, penetrating the enemy's guard.\"Usable on light bows and longbows.",
+            "affinity": "Standard",
+            "skill": "Mighty Shot"
+        },
+        {
+            "id": "17f697ede6el0hzng0czebz0gl42f",
+            "name": "Ash Of War: No Skill",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f697ede6el0hzng0czebz0gl42f.png",
+            "description": "This Ash of War grants no affinity to an armament and replaces any skill present with the following:\"No skill: This armament has no skill. If the armament in the other hand has a skill, that skill will be used instead.\"Usable on shields and torches.",
+            "affinity": "Standard",
+            "skill": "No Skill"
+        },
+        {
+            "id": "17f69a087c2l0hzng49rzvczvag1p",
+            "name": "Ash Of War: Piercing Fang",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69a087c2l0hzng49rzvczvag1p.png",
+            "description": "This Ash of War grants an armament the Keen affinity and the following skill:\"Piercing Fang: Skill used by Yura, the Bloody Finger Hunter. Starting with the blade held horizontally, make a powerful thrust that cannot be blocked.\"Usable on medium and large armaments capable of thrusting.",
+            "affinity": "Keen",
+            "skill": "Piercing Fang"
+        },
+        {
+            "id": "17f6992b87dl0hzng4xdj3kj5y9j56",
+            "name": "Ash Of War: Parry",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6992b87dl0hzng4xdj3kj5y9j56.png",
+            "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:\"Parry: Use this skill in time with a foe's melee attack to deflect it and break that foe's stance. This provides an opening to perform a critical hit.\"Usable on daggers, curved swords, thrusting swords, fists, claws, and small and medium shields.",
+            "affinity": "Standard",
+            "skill": "Parry Skill"
+        },
+        {
+            "id": "17f69449189l0hzng7hu2ig878ohic",
+            "name": "Ash Of War: Poisonous Mist",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69449189l0hzng7hu2ig878ohic.png",
+            "description": "This Ash of War grants an armament the Poison affinity and the following skill:\"Poisonous Mist: Bathe armament in poison, and then slash, spreading toxic mist forwards. The armament retains its poison for a while.\"Usable on melee armaments (whips, fists, and claws excepted).",
+            "affinity": "Poison",
+            "skill": "Poisonous Mist"
+        },
+        {
+            "id": "17f697b4d33l0hzng9g0bop6lam24gp",
+            "name": "Ash Of War: Prayerful Strike",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f697b4d33l0hzng9g0bop6lam24gp.png",
+            "description": "This Ash of War grants an armament the Sacred affinity and the following skill:\"Prayerful Strike: Raise armament aloft in prayer, then slam it into the ground. This inspired blow restores HP to the self and nearby allies if it successfully hits.\"Usable on axes and hammers.",
+            "affinity": "Sacred",
+            "skill": "Prayerful Strike"
+        },
+        {
+            "id": "17f6932a2d8l0hzngb251bqvfmqy2",
+            "name": "Ash Of War: Phantom Slash",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6932a2d8l0hzngb251bqvfmqy2.png",
+            "description": "This Ash of War grants an armament the Quality affinity and the following skill:\"Phantom Slash: Skill inspired by the fond remembrances of the Night's Cavalry. Creates an apparition of the knights' former instructor who guides a joint lunging upward swing. Additional input allows for a follow-up attack.\"Usable on polearms and twinblades (great spears excepted).",
+            "affinity": "Quality",
+            "skill": "Phantom Slash"
+        },
+        {
+            "id": "17f69742e0fl0hzngchtcvdl4bok5h",
+            "name": "Ash Of War: Poison Moth Flight",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69742e0fl0hzngchtcvdl4bok5h.png",
+            "description": "This Ash of War grants an armament the Poison affinity and thefollowing skill:\"Poison Moth Flight: Slash with a poison-infused blade. If thefollow-up strike lands on a poisoned foe, it will deal significantdamage.\"Usable on small and medium swords (twinblades excepted).",
+            "affinity": "Poison",
+            "skill": "Poison Moth Flight"
+        },
+        {
+            "id": "17f692c7232l0hzngn8rlhloj6d81g",
+            "name": "Ash Of War: Quickstep",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f692c7232l0hzngn8rlhloj6d81g.png",
+            "description": "This Ash of War grants an armament the Keen affinity and the following skill:\"Quickstep: Skill prized by the crafty and fleet of foot.Perform a quickstep maneuver that allows for circling around lock-on targets.\"Usable on all melee armaments.",
+            "affinity": "Keen",
+            "skill": "Quickstep"
+        },
+        {
+            "id": "17f69295181l0hznh0xinc6xftw9ba",
+            "name": "Ash Of War: Raptor Of The Mists",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69295181l0hznh0xinc6xftw9ba.png",
+            "description": "This Ash of War grants an armament the Keen affinity and the following skill:\"Raptor of the Mists: Duck into a low stance, momentarily vanishing. If an enemy attack connects, avian wings will allow for a quick escape into the air.\"Usable on all melee armaments.",
+            "affinity": "Keen",
+            "skill": "Raptor of the Mists"
+        },
+        {
+            "id": "17f693d5026l0hznh18sc9evm9dy7",
+            "name": "Ash Of War: Rain Of Arrows",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f693d5026l0hznh18sc9evm9dy7.png",
+            "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:\"Rain of Arrows: Archery skill performed from a low stance. Ready the bow, then fire a burst of arrows into the sky to shower the enemy with projectiles.\"Usable on all bows.",
+            "affinity": "Standard",
+            "skill": "Rain of Arrows"
+        },
+        {
+            "id": "17f694bd57dl0hznh3df4y3fmzs47",
+            "name": "Ash Of War: Repeating Thrust",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f694bd57dl0hznh3df4y3fmzs47.png",
+            "description": "This Ash of War grants an armament the Keen affinity and the following Skill:Repeating Thrust Twist to build power, then unleash a flurry of thrusts.This Skill takes some time to build up, but it is very powerful.It can be used on all thrusting armaments.",
+            "affinity": "Keen",
+            "skill": "Repeating Thrust"
+        },
+        {
+            "id": "17f6932e7ccl0hznh41483furh3gwl",
+            "name": "Ash Of War: Royal Knight's Resolve",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6932e7ccl0hznh41483furh3gwl.png",
+            "description": "This Ash of War grants an armament the Quality affinity and the following skill:\"Royal Knight's Resolve: Skill of the knights who once served the Elden Lord. Hold the flat of the armament to your face and pledge your resolve, greatly powering up your next attack.\"Usable on all melee armaments.",
+            "affinity": "Quality",
+            "skill": "Royal Knight's Resolve"
+        },
+        {
+            "id": "17f697367f8l0hznh85n59iw24a9cs",
+            "name": "Ash Of War: Sacred Ring Of Light",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f697367f8l0hznh85n59iw24a9cs.png",
+            "description": "This Ash of War grants an armament the Sacred affinity and the following skill:\"Sacred Ring of Light: Skill used by the commanders of the Cleanrot Knights. Gather a sacred ring of light in the armament, and then fire it forwards. Can be fired in rapid succession.\"Usable on polearms (great spears excepted).",
+            "affinity": "Sacred",
+            "skill": "Sacred Ring of Light"
+        },
+        {
+            "id": "17f6926fae4l0hznh93w8eu63gg5a",
+            "name": "Ash Of War: Sacred Blade",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6926fae4l0hznh93w8eu63gg5a.png",
+            "description": "This Ash of War grants an armament the Sacred affinity and the following skill:\"Sacred Blade: Grants armament's attacks holy essence and fires off a golden blade projectile. The armament retains its holy essence for awhile.\"Usable on all melee armaments (whips, fists, and claws excepted).",
+            "affinity": "Sacred",
+            "skill": "Sacred Blade"
+        },
+        {
+            "id": "17f69494c37l0hznhbbgk88jc3uz5o",
+            "name": "Ash Of War: Sacred Order",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69494c37l0hznhbbgk88jc3uz5o.png",
+            "description": "This Ash of War grants an armament the Sacred affinity and the following skill:\"Sacred Order: Skill of the Golden Order fundamentalist knights. Perform a salute and grant the armament holy essence. Highly effective against Those Who Live in Death.\"Usable on all melee armaments.",
+            "affinity": "Sacred",
+            "skill": "Sacred Order"
+        },
+        {
+            "id": "17f69835c8el0hznhgxliq172h0mb",
+            "name": "Ash Of War: Seppuku",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69835c8el0hznhgxliq172h0mb.png",
+            "description": "This Ash of War grants an armament the Blood and the following skill:\"Seppuku: A forbidden technique used by swordsmen from the Land of Reeds. Plunge the blade into your stomach to stain it with blood. Increases attack power and improves ability to inflict blood loss.\"Usable on swords as well as polearms capable of thrusting (small and colossal weapons excepted).",
+            "affinity": "Blood",
+            "skill": "Seppuku"
+        },
+        {
+            "id": "17f69368b21l0hzni1ub97dix6no65",
+            "name": "Ash Of War: Spinning Strikes",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69368b21l0hzni1ub97dix6no65.png",
+            "description": "This Ash of War grants an armament the Quality affinity and the following skill:\"Spinning Strikes: Polearm skill that performs continuous spinning attacks. Hold to continue the attack. Can be followed up with a normal or strong attack. Nullifies projectiles such as arrows while spinning.\"Usable on polearms (great spears excepted).",
+            "affinity": "Quality",
+            "skill": "Spinning Strikes"
+        },
+        {
+            "id": "17f69a61881l0hzni3itnz1oxlbfz",
+            "name": "Ash Of War: Shield Crash",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69a61881l0hzni3itnz1oxlbfz.png",
+            "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:\"Shield Crash: Two-hand the shield and charge forwards while maintaining guard. Weaker enemies will be shoved backwards and can even be staggered. Hold to extend the duration of the charge forwards.\"Usable on all shields.",
+            "affinity": "Standard",
+            "skill": "Shield Crash"
+        },
+        {
+            "id": "17f6974700al0hzni4it3sh1bwmn4c",
+            "name": "Ash Of War: Spinning Slash",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6974700al0hzni4it3sh1bwmn4c.png",
+            "description": "This Ash of War grants an armament the Keen affinity and the following skill:\"Spinning Slash: Skill favored by dexterous warriors. Slash foes as your body spins. Additional input allows for a follow-up attack.\"Usable on swords, axes, and polearms (colossal weapons excepted).",
+            "affinity": "Keen",
+            "skill": "Spinning Slash"
+        },
+        {
+            "id": "17f6926182el0hzni6gy8lu3ewebgc",
+            "name": "Ash Of War: Spectral Lance",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6926182el0hzni6gy8lu3ewebgc.png",
+            "description": "This Ash of War grants an armament the Occult affinity and the following skill:\"Spectral Lance: Skill of the headless Mausoleum Knights. Hurl a phantasmic spear at foes.\"Usable on polearms (reapers excepted).",
+            "affinity": "Occult",
+            "skill": "Spectral Lance"
+        },
+        {
+            "id": "17f695e6f65l0hzni7f6oo2ih1csuu",
+            "name": "Ash Of War: Spinning Weapon",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f695e6f65l0hzni7f6oo2ih1csuu.png",
+            "description": "This Ash of War grants an armament the Magic affinity and the following skill:\"Spinning Weapon: Defensive skill employed by Carian princesses. Lifts armament into mid-air, then makes it spin violently. Those it touches will suffer successive attacks.\"Usable on small and medium swords, axes, and hammers, as well as polearms and staves (great spears excepted)",
+            "affinity": "Magic",
+            "skill": "Spinning Weapon"
+        },
+        {
+            "id": "17f694d3942l0hzni7obhdodn7w1sf",
+            "name": "Ash Of War: Square Off",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f694d3942l0hzni7obhdodn7w1sf.png",
+            "description": "This Ash of War grants an armament the Quality affinity and the following skill:\"Square Off: This skill starts with the sword held level. Follow up with a normal attack to slash upwards through enemy's guard, or a strong attack to perform a running thrust\"Usable on straight swords.",
+            "affinity": "Quality",
+            "skill": "Square Off"
+        },
+        {
+            "id": "17f694a9a1cl0hznib028gwf1bodgy",
+            "name": "Ash Of War: Shield Bash",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f694a9a1cl0hznib028gwf1bodgy.png",
+            "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:\"Shield Bash: Brace behind shield before using bodyweight to ram foes while maintaining guarding stance. Weaker enemies will be shoved backwards, and can even be staggered.\"Usable on all shields.",
+            "affinity": "Standard",
+            "skill": "Shield Bash"
+        },
+        {
+            "id": "17f69615628l0hznicfne35ba3ux6k",
+            "name": "Ash Of War: Stamp (sweep)",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69615628l0hznicfne35ba3ux6k.png",
+            "description": "This Ash of War grants an armament the Heavy affinity and the following skill:\"Stamp (Sweep): Brace armament and step into a low stance that prevents recoil from most enemy attacks. Follow up with a strong attack for a sweeping strike\"Usable on swords, axes, and hammers (small and medium swords excepted)",
+            "affinity": "Heavy",
+            "skill": "Stamp (Sweep)"
+        },
+        {
+            "id": "17f699c60e7l0hzniu3lqezpf8qd1p",
+            "name": "Ash Of War: Stamp (upward Cut)",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f699c60e7l0hzniu3lqezpf8qd1p.png",
+            "description": "This Ash of War grants an armament the Heavy affinity and the following skill:\"Stamp (Upward Cut): Brace armament and step into a low stance that prevents recoil from most enemy attacks. Follow up with a strong attack for an upward strike.\"Usable on swords, axes, and hammers, (small and medium swords excepted).",
+            "affinity": "Heavy",
+            "skill": "Stamp (Upward Cut)"
+        },
+        {
+            "id": "17f6927105cl0hznj0z1zekjxe48uw",
+            "name": "Ash Of War: Stormcaller",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6927105cl0hznj0z1zekjxe48uw.png",
+            "description": "This Ash of War grants an armament the Quality affinity and the following skill:\"Stormcaller: One of the skills that channel the tempests of Stormveil. Spin armament to create surrounding storm winds. Repeated inputs allow for up to two follow-up attacks.\"Usable on swords capable of slashing, axes, hammers, and polearms (small and colossal weapons excepted).",
+            "affinity": "Quality",
+            "skill": "Stormcaller"
+        },
+        {
+            "id": "17f698b0169l0hznj20xql58va51p",
+            "name": "Ash Of War: Storm Stomp",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f698b0169l0hznj20xql58va51p.png",
+            "description": "This Ash of War grants an armament the Quality affinity and the following skill:\"Storm Stomp: One of the skills that channel the tempests of Stormveil. Stomp hard on the ground to kick up a momentary storm.\"Usable on all melee armaments.",
+            "affinity": "Quality",
+            "skill": "Storm Stomp"
+        },
+        {
+            "id": "17f6958e40fl0hznj220cxyqrpbhbtl",
+            "name": "Ash Of War: Storm Wall",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6958e40fl0hznj220cxyqrpbhbtl.png",
+            "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:\"Storm Wall: Swing the shield to create a wall of storm winds in front of you, deflecting arrows and other such physical projectiles. Can also be used in the same way as a regular parry.\"Usable on small and medium shields.",
+            "affinity": "Standard",
+            "skill": "Storm Wall"
+        },
+        {
+            "id": "17f691bde6dl0hznj254ai88m30jy4",
+            "name": "Ash Of War: Storm Assault",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f691bde6dl0hznj254ai88m30jy4.png",
+            "description": "This Ash of War grants an armament the Quality affinity and the following skill:\"Storm Assault: One of the skills that channel the tempests of Stormveil. Leap forward through surrounding storm winds and thrust armament downward. The attack will produce more storm winds at the point of impact.\"Usable on polearms capable of thrusting, heavy thrusting swords, and twinblades.",
+            "affinity": "Quality",
+            "skill": "Storm Assault"
+        },
+        {
+            "id": "17f6967f8b4l0hznj7rb45wsxsqe2k",
+            "name": "Ash Of War: Thops's Barrier",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6967f8b4l0hznj7rb45wsxsqe2k.png",
+            "description": "This Ash of War grants an armament the Magic affinity and the following skill:\"Thops's Barrier: Erect a magical forcefield while swinging the shield to deflect sorceries and incantations. Can also be used in the same way as a regular parry.\"Usable on small and medium shields.",
+            "affinity": "Magic",
+            "skill": "Thops's Barrier"
+        },
+        {
+            "id": "17f69649d89l0hznj9kugkc82bxbio",
+            "name": "Ash Of War: Storm Blade",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69649d89l0hznj9kugkc82bxbio.png",
+            "description": "This Ash of War grants an armament the Quality affinity and the following skill:\"Storm Blade: Lost skill of Stormveil. Surround armament with shearing storm winds that can be fired forward. Can be fired in rapid succession.\"Usable on swords (colossal weapons and twinblades excepted).",
+            "affinity": "Quality",
+            "skill": "Storm Blade"
+        },
+        {
+            "id": "17f6934bf80l0hznjbmtfxzfeycj3",
+            "name": "Ash Of War: Sword Dance",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6934bf80l0hznjbmtfxzfeycj3.png",
+            "description": "This Ash of War grants an armament the Keen affinity and the following skill:\"Sword Dance: Quickly close in to perform a series of spinning upward slashes. Follow up with an additional input to finish with a downward slash.\"Usable on swords, axes, and polearms capable of slashing (colossal weapons and great spears excepted).",
+            "affinity": "Keen",
+            "skill": "Sword Dance"
+        },
+        {
+            "id": "17f694f3dc4l0hznjyrorixzbrhtyl",
+            "name": "Through And Through",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f694f3dc4l0hznjyrorixzbrhtyl.png",
+            "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:\"Through and Through: Powerful archery skill using a greatbow held in an oblique stance. Ready the greatbow, then twist the bowstring to fire a mighty greatarrow that can penetrate through enemies.\"Usable on greatbows.",
+            "affinity": "Standard",
+            "skill": "Through and Through"
+        },
+        {
+            "id": "17f698ab1efl0hznjzezdci4en72vq",
+            "name": "Ash Of War: Thunderbolt",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f698ab1efl0hznjzezdci4en72vq.png",
+            "description": "This Ash of War grants an armament the Lightning affinity and the following skill:\"Thunderbolt: Skill used by the capital's ancient dragon cult. Raise armament aloft to call down a bolt of lightning. Can be fired in rapid succession.\"Usable on all melee armaments.",
+            "affinity": "Lightning",
+            "skill": "Thunderbolt"
+        },
+        {
+            "id": "17f699ec1a6l0hznk0i5ha4237hzfk",
+            "name": "Ash Of War: Unsheathe",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f699ec1a6l0hznk0i5ha4237hzfk.png",
+            "description": "This Ash of War grants an armament the Keen affinity and the following skill:\"Unsheathe: Skill of swordsmen from the Land of Reeds. Sheathe blade, holding it at the hip in a composed stance. Follow up with a normal or strong attack to perform a swift slash attack.\"Usable on katana.",
+            "affinity": "Keen",
+            "skill": "Unsheathe"
+        },
+        {
+            "id": "17f697d7810l0hznk0s61fxkyp7oyb",
+            "name": "Ash Of War: Vacuum Slice",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f697d7810l0hznk0s61fxkyp7oyb.png",
+            "description": "This Ash of War grants an armament the Quality affinity and the following skill:\"Vacuum Slice: Lost skill of ancient heroes. Hold the armament aloft to surround it with a shearing vacuum, then launch it forwards as a blade-like projectile.\"Usable on swords and axes (small and colossal axes excepted).",
+            "affinity": "Quality",
+            "skill": "Vacuum Slice"
+        },
+        {
+            "id": "17f6993d1e2l0hznk0xt4ctr9t63x",
+            "name": "Ash Of War: Troll's Roar",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6993d1e2l0hznk0xt4ctr9t63x.png",
+            "description": "This Ash of War grants an armament the Heavy affinity and the following skill:\"Troll's Roar: Look into the distance and let out an intense roar, generating a powerful shockwave that blows back surrounding foes. Follow up with a strong attack to slam the armament down.\"Usable on large and colossal swords, axes, and hammers.",
+            "affinity": "Heavy",
+            "skill": "Troll's Roar"
+        },
+        {
+            "id": "17f692815c3l0hznk5jl6bndkytllg",
+            "name": "Ash Of War: War Cry",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f692815c3l0hznk5jl6bndkytllg.png",
+            "description": "This Ash of War grants an armament the Heavy affinity and the following skill:\"War Cry: Give a war cry to rally the spirit and increase attack power. While active, strong attacks change to charging attacks.\"Usable on melee armaments (daggers, thrusting swords, and whips excepted).",
+            "affinity": "Heavy",
+            "skill": "War Cry"
+        },
+        {
+            "id": "17f694286dcl0hznk67par4y8fhfsr",
+            "name": "Ash Of War: Vow Of The Indomitable",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f694286dcl0hznk67par4y8fhfsr.png",
+            "description": "This Ash of War grants an armament the Sacred affinity and the following skill:\"Vow of the Indomitable: Skill of the ancient warriors of the Erdtree. Hold shield aloft to imbue yourself with golden power, granting momentary invincibility.\"Usable on all shields.",
+            "affinity": "Sacred",
+            "skill": "Vow of the Indomitable"
+        },
+        {
+            "id": "17f6972b1a9l0hznk88u6e3xorhqag",
+            "name": "Ash Of War: Waves Of Darkness",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f6972b1a9l0hznk88u6e3xorhqag.png",
+            "description": "This Ash of War grants an armament the Magic affinity and the following skill:\"Waves of Darkness: Plunge armament into the ground to release three waves of darkness. Follow up with a strong attack to swing the armament in a sweeping strike.\"Usable on greataxes, warhammers, and colossal weapons.",
+            "affinity": "Magic",
+            "skill": "Waves of Darkness"
+        },
+        {
+            "id": "17f693d28cal0hznkls4roarty63j",
+            "name": "Ash Of War: White Shadow's Lure",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f693d28cal0hznkls4roarty63j.png",
+            "description": "This Ash of War grants an armament the Occult affinity and the following skill:\"White Shadow's Lure: Hold armament in a brief, silent prayer to create a white shadow. The apparition lures in foes of human build who are not in combat, drawing their aggression. Effective on demi-humans even if they are already in a combat state.\"Usable on all melee armaments.",
+            "affinity": "Occult",
+            "skill": "White Shadow's Lure"
+        },
+        {
+            "id": "17f694c6f7dl0hznknwj67qfg5tulf",
+            "name": "Ash Of War: Wild Strikes",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f694c6f7dl0hznknwj67qfg5tulf.png",
+            "description": "This Ash of War grants an armament the Heavy affinity and the following skill:\"Wild strikes: Swing armaments with wild abandon. Hold to continue swinging. Can be followed up with a normal or strong attack.\"Usable on axes and hammers as well as curved swords and greatswords (colossal weapons excepted).",
+            "affinity": "Heavy",
+            "skill": "Wild Strikes"
+        },
+        {
+            "id": "17f69961854l0hznksnfmac6brvbwg",
+            "name": "Lost Ashes Of War",
+            "image": "https://eldenring.fanapis.com/images/ashes/17f69961854l0hznksnfmac6brvbwg.png",
+            "description": "Empty ashes of war, devoid of any memories of battle.Unable to apply any kind of affinity in their current state, but can be used by Smithing Master Hewg of the Roundtable Hold to recreate other ashes.Thus does the copy pass into becoming the genuine article.",
+            "affinity": "None",
+            "skill": "Ashes of War"
+        }
+    ]
+}

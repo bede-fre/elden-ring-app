@@ -1,3 +1,10 @@
+
+@font-face {
+  font-family: "Light";   /*Can be any text*/
+  src: local("Mantinia_Regular"),
+    url("./fonts/Mantinia_Regular.otf") format("truetype");
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +12,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  
+  font-family: "Light";
+  text-transform: uppercase;
 }
